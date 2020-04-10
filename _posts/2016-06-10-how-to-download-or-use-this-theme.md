@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "Setting Up the Environment"
 comments: true
 description: "How to Download or Use This Theme"
 keywords: "dummy content"
