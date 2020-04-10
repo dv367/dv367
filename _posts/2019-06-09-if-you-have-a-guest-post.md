@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you have a Guest post.."
+title: "The Bug Algorithms"
 comments: true
 description: "If you have a Guest post.."
 keywords: "dummy content"
