@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+This page consists of planning algorithms.
