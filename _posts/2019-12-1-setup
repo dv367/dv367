@@ -1,0 +1,12 @@
+---
+layout: post
+title: "1. Setting Up the Environment"
+comments: true
+description: "How to Download or Use This Theme"
+keywords: "Turtlebot3"
+---
+
+## Simulations?  
+The Turtlebot3 model will be used for the simulation purpose in most of the planning techniques. It is the most popular open source robot for education and research. Here is the [link](http://wiki.ros.org/turtlebot3).  
+
+
