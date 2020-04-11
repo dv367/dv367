@@ -21,4 +21,5 @@ If you want to use this theme as a project page blog, you don't need to rename t
 
 All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
 
-#### Cheers!
+#### Cheers!  
+![tan\frac{x}{y}](https://render.githubusercontent.com/render/math?math=tan%5Cfrac%7Bx%7D%7By%7D)
