@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This page consists of planning algorithms.
+I like robots.
