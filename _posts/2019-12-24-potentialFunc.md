@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2. Potenial Functions"
+title: "3. Potenial Functions"
 mathjax: true
 comments: true
 description: "Turtlebot3"
