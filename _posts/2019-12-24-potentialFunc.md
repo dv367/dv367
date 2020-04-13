@@ -83,7 +83,7 @@ One should be very careful while calculating the argument of the vector as we re
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(q)| \tag{13}$.
-As, $|\nabla D(q)| = 1 \tag{14}$
+$As, |\nabla D(q)| = 1 \tag{14}$
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} (1)| \tag{15}$  
 </p>
 
