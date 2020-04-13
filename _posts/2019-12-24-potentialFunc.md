@@ -38,6 +38,14 @@ Figure 2. Attractive Potential Function $goal: (500,500)$
 </p> 
 As discussed in the earlier post that our robot can move only in plane. From eqn(2), we can write
 <p align="center">
-$\vec{v} = \zeta (x_{g}-x) \hat{i} + \zeta (y_{g}-y) \hat{j}
+$\vec{v} = \zeta (x_{g}-x) \hat{i} + \zeta (y_{g}-y) \hat{j}. \tag{4}$  
 </p> 
+The agrument $\theta$ of the vector can be given by,
+<p align="center">
+$\theta = atan2(y_{g}-y,x_{g}-x). \tag{5}$
+</p>
+The magnitude of the vector can be given by
+<p align="center">
+$|v| = \zeta \sqrt{(x_{g}-x)**2 + (y_{g}-y)**2}. \tag{6}$  
+</p>
 
