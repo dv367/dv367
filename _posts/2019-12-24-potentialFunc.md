@@ -30,7 +30,7 @@ The simplest attractive potential function is one that grows quadratically with 
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
-In Figure 2, we can observe that as we move closer towards the goal the energy decreases and becomes zero at the goal. The velocity vector can be found from the equation(2).  
+In Figure 2, we can observe that as we move closer towards the goal the energy decreases and becomes zero at the goal. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/attractive.png)   
 <p align="center">
