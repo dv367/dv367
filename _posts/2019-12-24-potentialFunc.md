@@ -26,7 +26,7 @@ $v = \nabla U(q) \tag{2}$
 _Note: The function must be continuously differentiable._ 
 
 ### 3.2 Attractive Potential  
-The simplest attractive potential function is one that grows quadratically with the distance to goal. $\zeta$ is a parameter used to scale the effect of the attractive potential function and $d^{2}(q,q_{goal}$ is the distance from current configuration $q$ to goal goal configuration $q_{goal}$.   
+The simplest attractive potential function is one that grows quadratically with the distance to goal. $\zeta$ is a parameter used to scale the effect of the attractive potential function and $d^{2}(q,q_{goal})$ is the distance from current configuration $q$ to goal goal configuration $q_{goal}$.   
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
