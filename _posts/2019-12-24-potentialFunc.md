@@ -26,7 +26,7 @@ $v = -\nabla U(q) \tag{2}$
 _Note: The function must be continuously differentiable._ 
 
 ### 3.2 Attractive Potential  
-The simplest attractive potential function is one that grows quadratically with the distance to goal. $\zeta$ is a parameter used to scale the effect of the attractive potential function and $d^{2}(q,q_{goal})$ is the distance from current configuration $q$ to goal goal configuration $q_{goal}$.   
+The simplest attractive potential function is one that grows quadratically with the distance to goal. Let $\zeta$ be a parameter used to scale the effect of the attractive potential function and $d^{2}(q,q_{goal})$ is the distance from current configuration $q$ to goal goal configuration $q_{goal}$.   
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
@@ -47,9 +47,19 @@ $\theta = atan2(y_{g}-y,x_{g}-x). \tag{5}$
 The magnitude of the vector can be given by
 <p align="center">
 $|v| = \zeta \sqrt{(x_{g}-x)^{2} + (y_{g}-y)^{2}} \tag{6}$  
-or
+$or$
 $|v| = \zeta d^{2}(q,q_{goal}). \tag{7}$  
 </p>
 We can find the value of $\zeta$ by subsituting the $|v|$ as maximum linear velocity of robot and $d^{2}(q,q_{goal})$ as the distance from start configuration $q_{start}$ to the goal configuration $q_{goal}$. Therefore,
 <p align="center">
 $\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$   
+
+### 3.3 Repulsive Potential  
+The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position  to the nearest obstacle and $Q^{\*}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as
+<p align="center">
+U_{rep}(q) = 
+\begin{cases}
+\frac{\eta}{2} (\frac{1}{D(q)} - \frac{1}{Q^{2}})^{2},  & \text{$D(q) \leqslant Q^{*}$} \\
+0, & \text{$D(q) > Q^{*}$}
+\end{cases}
+</p>
