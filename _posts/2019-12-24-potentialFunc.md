@@ -52,7 +52,7 @@ $|v| = \zeta d^{2}(q,q_{goal}). \tag{7}$
 </p>
 We can find the value of $\zeta$ by subsituting the $|v|$ as maximum linear velocity of robot and $d^{2}(q,q_{goal})$ as the distance from start configuration $q_{start}$ to the goal configuration $q_{goal}$. Therefore,
 <p align="center">
-$$\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$$  
+$\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$  
 </p>  
   
 ### 3.3 Repulsive Potential    
@@ -61,7 +61,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
  $U_{rep}(q)$ =
 \begin{cases}
 \frac{\eta}{2} (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}})^{2},  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
-0, & \text{$D(q) > Q^{\dagger}$} 
+0, & \text{$D(q) > Q^{\dagger}$} $\tag{9}$
 \end{cases}
 
  f(n) = \begin{cases}
