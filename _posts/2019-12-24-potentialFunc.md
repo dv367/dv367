@@ -54,7 +54,7 @@ We can find the value of $\zeta$ by subsituting the $|v|$ as maximum linear velo
 <p align="center">
 $\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$  
   
-
+  
 ### 3.3 Repulsive Potential    
 
 
