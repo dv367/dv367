@@ -64,8 +64,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 0, & \text{$D(q) > Q^{\dagger}$} 
 \end{cases}
 
- f(n) =
-\begin{cases}
+ f(n) = \begin{cases}
 n/2,  & \text{if $n$ is even} \\
 3n+1, & \text{if $n$ is odd}
 \end{cases}
