@@ -20,6 +20,10 @@ A potential function can be constructed as the sum of attractive and repulsive p
 $U(q) = U_{att}(q) + U_{rep}(q) \tag{1}$
 </p>
 
-### 3.2 Attractive Potential 
+### 3.2 Attractive Potential  
+The simplest attractive potential function is one that grows quadratically with the distance to goal.  
+<p align="center">
+$U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{2}$
+</p>
 
 
