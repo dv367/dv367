@@ -71,6 +71,7 @@ Also,
 \eta (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}}) \frac{1}{D^{2}(q)} \nabla D(q),  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
 0, & \text{$D(q) > Q^{\dagger}$} \tag{10}
 \end{cases} $
+  
 $where, \nabla D(q) = \sqrt{(x_{o}-x)^{2} + (y_{o}-y)^{2}} \tag{11} $
 </p>
 
