@@ -18,12 +18,17 @@ Figure 1. -ve goal attarcts +ve robot
 A potential function can be constructed as the sum of attractive and repulsive potenials.  
 <p align="center">
 $U(q) = U_{att}(q) + U_{rep}(q) \tag{1}$
-</p>
+</p>  
+We will consider the gradient of the potential function as a velocity vector($\vec{v}$).
+<p align="center">
+$v = \nabla U \tag{2}$
+</p> 
+_Note: The function must be continuously differentiable._ 
 
 ### 3.2 Attractive Potential  
-The simplest attractive potential function is one that grows quadratically with the distance to goal.  
+The simplest attractive potential function is one that grows quadratically with the distance to goal. $\zeta$ is a parameter used to scale the effect of the attractive potential function and $d^{2}(q,q_{goal}$ is the distance from current configuration $q$ to goal goal configuration $q_{goal}$.   
 <p align="center">
-$U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{2}$
+$U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>
 
 
