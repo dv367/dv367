@@ -21,7 +21,7 @@ $U(q) = U_{att}(q) + U_{rep}(q) \tag{1}$
 </p>  
 We will consider the gradient of the potential function as a velocity vector($\vec{v}$).
 <p align="center">
-$v = \nabla U(q) \tag{2}$
+$v = -\nabla U(q) \tag{2}$
 </p> 
 _Note: The function must be continuously differentiable._ 
 
@@ -34,6 +34,10 @@ In Figure 2, we can observe that as we move closer towards the goal the energy d
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/attractive.png)   
 <p align="center">
-Figure 2. Attractive Potential Function _Goal: (500,500)_
+Figure 2. Attractive Potential Function $goal: (500,500)$
+</p> 
+As discussed in the earlier post that our robot can move only in plane. From eqn(2), we can write
+<p align="center">
+$\vec{v} = \zeta (x_{g}-x) \hat{i} + \zeta (y_{g}-y) \hat{j}
 </p> 
 
