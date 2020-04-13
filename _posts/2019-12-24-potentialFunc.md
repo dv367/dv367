@@ -66,12 +66,24 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 </p>
 Also,
 <p align="center">
- $\nabla U_{rep}(q) =
+ $\vec{v} = - \nabla U_{rep}(q) =
 \begin{cases}
-\eta (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}}) \frac{1}{D^{2}(q)} \nabla D(q),  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
+- \eta (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}}) \frac{1}{D^{2}(q)} \nabla D(q),  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
 0, & \text{$D(q) > Q^{\dagger}$} \tag{10}
 \end{cases} $
   
 $where, \nabla D(q) = \sqrt{(x_{o}-x)^{2} + (y_{o}-y)^{2}} \tag{11} $
 </p>
+Similar to eqn(5) the argument $\phi$ is given by
+<p align="center">
+$\phi = atan2(y - y_{o},x - x_{o}) \tag{12}$.
+</p>
+One should be very careful while calculating the argument of the vector as we require an angle from point $(x_{o},y_{o})$ to point $(x,y)$. Figure X should make this more clear.  
+_Note: atan2 gives quandrant specific angles_  
+Similar to eqn(6) the magnitude is given by  
+<p align="center">
+$|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(q)| \tag{13}$.
+$\wasytherefore |\nabla D(q)| = 1$
+</p>
+
 
