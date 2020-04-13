@@ -53,7 +53,6 @@ $|v| = \zeta d^{2}(q,q_{goal}). \tag{7}$
 We can find the value of $\zeta$ by subsituting the $|v|$ as maximum linear velocity of robot and $d^{2}(q,q_{goal})$ as the distance from start configuration $q_{start}$ to the goal configuration $q_{goal}$. Therefore,
 <p align="center">
 $\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$  
-  
 ### 3.3 Repulsive Potential    
 
 
