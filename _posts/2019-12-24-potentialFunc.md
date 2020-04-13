@@ -56,7 +56,7 @@ $\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$
 </p>  
   
 ### 3.3 Repulsive Potential    
-The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as    
+The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position $(x,y)$  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as    
 <p align="center">
  $U_{rep}(q) =
 \begin{cases}
@@ -72,17 +72,17 @@ Also,
 0, & \text{$D(q) > Q^{\dagger}$} \tag{10}
 \end{cases} $
   
-$where, \nabla D(q) = \sqrt{(x_{o}-x)^{2} + (y_{o}-y)^{2}} \tag{11} $
+$where, \nabla D(q) = \frac{(x_{o}-x)^{2}}{D(q)} \hat{i} + \frac{(y_{o}-y)^{2}}{D(q)} \hat{j} \tag{11} $
 </p>
 Similar to eqn(5) the argument $\phi$ is given by
 <p align="center">
-$\phi = atan2(y - y_{o},x - x_{o}) \tag{12}$.
+$\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
 One should be very careful while calculating the argument of the vector as we require an angle from point $(x_{o},y_{o})$ to point $(x,y)$. Figure X should make this more clear. _Note: atan2 gives quandrant specific angles_      
 
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
-$|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(q)| \tag{13}$.
+$|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(q)|. \tag{13}$
 $As, |\nabla D(q)| = 1 \tag{14}$
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} (1)| \tag{15}$  
 </p>
