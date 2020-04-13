@@ -56,12 +56,21 @@ $\zeta = \frac{|v_{max}|}{d^{2}(q,q_{goal})}. \tag{8}$
 </p>  
   
 ### 3.3 Repulsive Potential    
-The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position  to the nearest obstacle and $Q^{\dagger}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as    
+The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as    
 <p align="center">
  $U_{rep}(q) =
 \begin{cases}
 \frac{\eta}{2} (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}})^{2},  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
 0, & \text{$D(q) > Q^{\dagger}$} \tag{9}
 \end{cases} $
+</p>
+Also,
+<p align="center">
+ $\nabla U_{rep}(q) =
+\begin{cases}
+\eta (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}}) \frac{1}{D^{2}(q)} \nabla D(q),  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
+0, & \text{$D(q) > Q^{\dagger}$} \tag{10}
+\end{cases} $
+$where, \nabla D(q) = \sqrt{(x_{o}-x)^{2} + (y_{o}-y)^{2}} \tag{11} $
 </p>
 
