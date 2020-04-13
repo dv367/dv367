@@ -78,7 +78,7 @@ Similar to eqn(5) the argument $\phi$ is given by
 <p align="center">
 $\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
-One should be very careful while calculating the argument of the vector as we require an angle from point $(x_{o},y_{o})$ to point $(x,y)$. Figure X should make this more clear. _Note: atan2 gives quandrant specific angles_      
+One should be very careful while calculating the argument of the vector as we require an angle from point $(x_{o},y_{o})$ to point $(x,y)$. Figure X should make this more clear. _Note: atan2 gives quadrant specific angles_      
 
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
