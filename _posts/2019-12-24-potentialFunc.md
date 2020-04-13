@@ -71,7 +71,7 @@ Also,
 - \eta (\frac{1}{D(q)} - \frac{1}{Q^{\dagger}}) \frac{1}{D^{2}(q)} \nabla D(q),  & \text{$D(q) \leqslant Q^{\dagger}$} \\  
 0, & \text{$D(q) > Q^{\dagger}$} \tag{10}
 \end{cases} $
-  
+<br>  
 $where, \nabla D(q) = \frac{(x_{o}-x)^{2}}{D(q)} \hat{i} + \frac{(y_{o}-y)^{2}}{D(q)} \hat{j} \tag{11} $
 </p>
 Similar to eqn(5) the argument $\phi$ is given by
@@ -83,7 +83,9 @@ One should be very careful while calculating the argument of the vector as we re
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(q)|. \tag{13}$
+<br>
 $As, |\nabla D(q)| = 1 \tag{14}$
+<br>  
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} (1)| \tag{15}$  
 </p>
 
