@@ -59,6 +59,6 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 <p align="center">
 $U_{rep}(q) =$ \begin{cases}
 \frac{\eta}{2} (\frac{1}{D(q)} - \frac{1}{Q^{2}})^{2},  & \text{$D(q) \leqslant Q^{*}$} \\
-0, & \text{$D(q) > Q^{*} \tag{9}$}
+0, & \text{$D(q) > Q^{*}$} $\tag{9}$
 \end{cases}
 </p>
