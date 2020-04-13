@@ -79,9 +79,9 @@ Similar to eqn(5) the argument $\phi$ is given by
 $\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
 One should be very careful while calculating the argument of the vector as we require an angle from point $(x_{o},y_{o})$ to point $(x,y)$. Figure 3 should make this more clear. _Note: atan2 gives quadrant specific angles_ 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
 <p align="center">
-$Figure 3. Only nearest obstacle is considered$
+Figure 3. Only nearest obstacle is considered
 </p>
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
