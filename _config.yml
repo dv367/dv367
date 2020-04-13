@@ -10,7 +10,7 @@ cover         : "/assets/images/cover.png" # image uri like logo/cover image for
 google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
 comments_enabled  : true # if enabled (set to true), please provide your disqus_username
-disqus_username : "http://disqus.com/by/vivekadajania"
+disqus_username : "vivekadajania"
 disqus_shortname  : "https://github.com/dv367/thinkspace"
 postshare_enabled : false
 
