@@ -86,7 +86,8 @@ $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} \nabla D(
 <br>
 $As, |\nabla D(q)| = 1 \tag{14}$
 <br>  
-$|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)} (1)| \tag{15}$  
+$|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)}| \tag{15}$  
 </p>
+Now, the value of \eta can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of \eta. 
 
 
