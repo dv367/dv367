@@ -120,7 +120,7 @@ Figure 6. Results
 </p>  
 **Video:**  
 
-<iframe width="1221" height="687" src="https://www.youtube.com/embed/a_e5wqz2nfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="305" height="172" src="https://www.youtube.com/embed/a_e5wqz2nfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
