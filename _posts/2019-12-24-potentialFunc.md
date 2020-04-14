@@ -127,5 +127,13 @@ Figure 6. Results
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
 ### 3.5 The Local Minima Problem
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
+<p align="center">
+Figure 6. One obstacle creating a local minima 
+</p>
+Figure 7 illustrates a condition when all the obstacles in range are considered and accordingly repulsive vectors are generated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima2]({{ site.url }}/assets/images/minima2.PNG)
+<p align="center">
+Figure 7. Two obstacles creating a local minima
+</p>
 
