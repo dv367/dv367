@@ -107,16 +107,21 @@ Figure 5. Potential Function (Att + Rep)
 ### 3.4 Results
 Figure 6 is the simulation result with following environment configuration:  
 
-Start = $S(0,0)$  
-Goal = $G(500,500)$  
-Obstacle at $(100,130)$ and $(330,270)$ with raidus of $20cm$  
-Radius of robot = $20cm$  
-$Q\dagger = 30cm$  
+* Start = $S(0,0)$  
+* Goal = $G(500,500)$  
+* Cylindrical obstacle at $(100,130)$ and $(330,270)$ with raidus of $20cm$  
+* Radius of robot = $20cm$  
+* $Q\dagger = 30cm$  
 
 _Note: The robot can reach the goal with any orientation_
 ![test]({{ site.url }}/assets/images/test.png) 
 <p align="center">
 Figure 6. Results
 </p>  
+Video:  
+<div class="video-container"><iframe src="https://www.youtube.com/watch?v=a_e5wqz2nfw" frameborder="0" allowfullscreen></iframe></div>  
+One might have observed in the video that the robot struggled to move when it was near the second obstacle.
+
+### 3.5 The Local Minima Problem
 
 
