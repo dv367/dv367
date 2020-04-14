@@ -13,7 +13,7 @@ Potential function approach directs a robot as if it were a particle moving in a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![obstacle]({{ site.url }}/assets/images/charged.png)  
 
 <p align="center">
-**Figure 1.** -ve goal attarcts +ve robot
+Figure 1. -ve goal attarcts +ve robot
 </p>  
 A potential function can be constructed as the sum of attractive and repulsive potenials.  
 <p align="center">
@@ -64,7 +64,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 0, & \text{$D(q) > Q^{\dagger}$} \tag{9}
 \end{cases} $
 </p>
-**Figure 3** shows potential energy of two cylindrical obstacles of radius = $20cm$ and Q^{\dagger} = $30cm$.
+**Figure 3** shows potential energy of two cylindrical obstacles of radius = $20cm$ and $Q^{\dagger}$ = $30cm$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/repulsive.png) 
 <p align="center">
 <b>Figure 3.</b> Repulsive Potential Function - two cylindrical obstacles
