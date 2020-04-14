@@ -38,7 +38,7 @@ In **Figure 2**, we can observe that as we move closer towards the goal the ener
 </p> 
 As discussed in the earlier post that our robot can move only in plane. From eqn(2), we can write
 <p align="center">
-$\vec{v} = \zeta (x_{g}-x) \hat{i} + \zeta (y_{g}-y) \hat{j}. \tag{4}$  
+$\vec{v} = -\nabla U(q) = \zeta (x_{g}-x) \hat{i} + \zeta (y_{g}-y) \hat{j}. \tag{4}$  
 </p> 
 The agrument $\theta$ of the vector can be given by
 <p align="center">
