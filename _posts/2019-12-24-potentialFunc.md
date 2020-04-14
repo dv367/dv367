@@ -127,6 +127,7 @@ Figure 6. Results
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
 ### 3.5 The Local Minima Problem
+Figure 6 illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
 <p align="center">
 Figure 6. One obstacle creating a local minima 
