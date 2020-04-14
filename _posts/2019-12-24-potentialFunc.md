@@ -69,7 +69,8 @@ The following graph shows potential energy of two cylindrical obstacles of radiu
 <p align="center">
 <b>Figure 3.</b> Repulsive Potential Function - two cylindrical obstacles
 </p> 
-Also,
+<br>
+Also, the velocity vector is given by
 <p align="center">
  $\vec{v} = - \nabla U_{rep}(q) =
 \begin{cases}
