@@ -56,7 +56,7 @@ $\zeta = \frac{|v_{max}|}{d^{2}(q_{start},q_{goal})}. \tag{8}$
 </p>  
   
 ### 3.3 Repulsive Potential    
-The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position $(x,y)$  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be tolerance which allows the robot to ignore the obstacle. The function is defined as    
+The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position $(x,y)$  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be the tolerance which allows the robot to ignore the obstacle. The function is defined as    
 <p align="center">
  $U_{rep}(q) =
 \begin{cases}
@@ -64,7 +64,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 0, & \text{$D(q) > Q^{\dagger}$} \tag{9}
 \end{cases} $
 </p>
-**Figure 3** shows potential energy of two cylindrical obstacles of radius = $20cm$ and $Q^{\dagger}$ = $30cm$.
+The following graph shows potential energy of two cylindrical obstacles of radius = $20cm$ and $Q^{\dagger}$ = $30cm$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/repulsive.png) 
 <p align="center">
 <b>Figure 3.</b> Repulsive Potential Function - two cylindrical obstacles
