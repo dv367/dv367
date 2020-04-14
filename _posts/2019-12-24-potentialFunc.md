@@ -83,7 +83,7 @@ Similar to eqn(5) the argument $\phi$ is given by
 <p align="center">
 $\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
-One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. Figure 3 should make this more clear. _Note: atan2 gives quadrant specific angles_ 
+One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. Figure 4 should make this more clear. _Note: atan2 gives quadrant specific angles_ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
 <p align="center">
@@ -102,6 +102,21 @@ From Figure 5, we can now observe the overall potential function $U(q)$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/overall.png) 
 <p align="center">
 Figure 5. Potential Function (Att + Rep)
-</p> 
+</p>  
+
+### 3.4 Results
+Figure 6 is the simulation result with following environment configuration:  
+```
+Start = $S(0,0)$
+Goal = $G(500,500)$
+Obstacle at $(100,130)$ and $(330,270)$ with raidus of $20cm$
+Radius of robot = $20cm$
+$Q\dagger = 30cm$
+```
+_Note: The robot can reach the goal with any orientation_
+![test]({{ site.url }}/assets/images/test.png) 
+<p align="center">
+Figure 6. Results
+</p>  
 
 
