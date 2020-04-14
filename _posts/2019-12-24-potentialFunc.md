@@ -137,7 +137,7 @@ Figure 7 illustrates a condition when all the obstacles in range(sensors) are co
 <p align="center">
 Figure 7. Two obstacles creating a local minima
 </p>  
-In the next article, we will se how can we avoid the local minimas.  
+These are some of the drawbacks of potential functions. In the next article, we will se how can we avoid the local minimas.  
 
 ### 3.6 References
 [1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
