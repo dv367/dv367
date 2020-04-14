@@ -137,7 +137,7 @@ One might have observed in the video that the robot struggled to move when it wa
 <p align="center">
 <b>Figure 8.</b> Two obstacles creating a local minima
 </p>  
-These are some of the drawbacks of potential functions. In the next article, we will se how can we avoid the local minimas.  
+These are some of the drawbacks of potential functions. In the next post, we will se how can we avoid the local minimas.  
 
 ### 3.6 References
 [1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
