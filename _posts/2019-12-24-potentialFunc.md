@@ -13,7 +13,7 @@ Potential function approach directs a robot as if it were a particle moving in a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![obstacle]({{ site.url }}/assets/images/charged.png)  
 
 <p align="center">
-  <b>Figure 1.</b> -ve goal attarcts +ve robot
+**Figure 1.** -ve goal attarcts +ve robot
 </p>  
 A potential function can be constructed as the sum of attractive and repulsive potenials.  
 <p align="center">
