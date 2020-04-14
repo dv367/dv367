@@ -128,13 +128,19 @@ One might have observed in the video that the robot struggled to move when it wa
 
 ### 3.5 The Local Minima Problem
 Figure 6 illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
 <p align="center">
 Figure 6. One obstacle creating a local minima 
 </p>
 Figure 7 illustrates a condition when all the obstacles in range(sensors) are considered and accordingly repulsive vectors are generated.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima2]({{ site.url }}/assets/images/minima2.PNG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima2]({{ site.url }}/assets/images/minima2.PNG)
 <p align="center">
 Figure 7. Two obstacles creating a local minima
-</p>
+</p>  
+In the next article, we will se how can we avoid the local minimas.  
+
+### 3.6 References
+[1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
+[2]. _RI16-735 Robot Motion Planning_ - [link](http://www.cs.cmu.edu/~./motionplanning/)
+
 
