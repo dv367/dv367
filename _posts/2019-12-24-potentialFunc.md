@@ -64,7 +64,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 0, & \text{$D(q) > Q^{\dagger}$} \tag{9}
 \end{cases} $
 </p>
-
+Figure 3 shows potential energy of two cylindrical obstacles of radius = $20cm$ and Q^{\dagger} = $30cm$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/repulsive.png) 
 <p align="center">
 Figure 3. Repulsive Potential Function - two cylindrical obstacles
@@ -111,7 +111,7 @@ Figure 6 is the simulation result with following environment configuration:
 * Goal = $G(500,500)$  
 * Cylindrical obstacle at $(100,130)$ and $(330,270)$ with raidus of $20cm$  
 * Radius of robot = $20cm$  
-* $Q\dagger = 30cm$  
+* $Q^{\dagger} = 30cm$  
 
 _Note: The robot can reach the goal with any orientation_
 ![test]({{ site.url }}/assets/images/test.png) 
