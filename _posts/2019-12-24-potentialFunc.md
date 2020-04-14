@@ -119,7 +119,9 @@ _Note: The robot can reach the goal with any orientation_
 Figure 6. Results
 </p>  
 Video:  
+
 <div class="video-container"><iframe src="https://www.youtube.com/watch?v=a_e5wqz2nfw" frameborder="0" allowfullscreen></iframe></div>  
+
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
 ### 3.5 The Local Minima Problem
