@@ -118,9 +118,9 @@ _Note: The robot can reach the goal with any orientation_
 <p align="center">
 Figure 6. Results
 </p>  
-Video:  
+**Video:**  
 
-<div class="video-container"><iframe src="https://www.youtube.com/watch?v=a_e5wqz2nfw" frameborder="0" allowfullscreen></iframe></div>  
+<iframe width="1221" height="687" src="https://www.youtube.com/embed/a_e5wqz2nfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
