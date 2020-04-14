@@ -64,6 +64,11 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 0, & \text{$D(q) > Q^{\dagger}$} \tag{9}
 \end{cases} $
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/repulsive.png) 
+<p align="center">
+Figure 3. Repulsive Potential Function - two cylindrical obstacles
+</p> 
 Also,
 <p align="center">
  $\vec{v} = - \nabla U_{rep}(q) =
