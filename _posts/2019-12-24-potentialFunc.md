@@ -87,7 +87,7 @@ One should be very careful while calculating the argument of the vector as we re
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
 <p align="center">
-Figure 3. Only nearest obstacle is considered
+Figure 4. Only nearest obstacle is considered
 </p>
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
@@ -97,6 +97,11 @@ $\because |\nabla D(q)| = 1 \tag{14}$
 <br>  
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)}| \tag{15}$  
 </p>
-Now, the value of $\eta$ can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of $\eta$. 
+Now, the value of $\eta$ can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of $\eta$.  
+We can observe the overall potential function from eqn(1).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/overall.png) 
+<p align="center">
+Figure 5. Potential Function (Att + Rep)
+</p> 
 
 
