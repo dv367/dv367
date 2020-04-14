@@ -30,7 +30,7 @@ The simplest attractive potential function is one that grows quadratically with 
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
-In Figure 2, we can observe that as we move closer towards the goal the energy decreases and becomes zero at the goal. 
+In Figure 2, we can observe that as we move closer towards the goal the energy decreases and becomes zero(global minimum) at the goal. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/attractive.png)   
 <p align="center">
@@ -132,7 +132,7 @@ Figure 6 illustrates the condition which might have occured in the simulation te
 <p align="center">
 Figure 6. One obstacle creating a local minima 
 </p>
-Figure 7 illustrates a condition when all the obstacles in range(sensors) are considered and accordingly repulsive vectors are generated.
+Figure 7 illustrates a condition when all the obstacles in range(sensors) are considered and accordingly repulsive vectors are generated.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima2]({{ site.url }}/assets/images/minima2.PNG)
 <p align="center">
 Figure 7. Two obstacles creating a local minima
