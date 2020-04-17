@@ -144,7 +144,9 @@ These are some of the drawbacks of potential functions. In the next post, we wil
 [1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
 [2]. _RI16-735 Robot Motion Planning_ - [link](http://www.cs.cmu.edu/~./motionplanning/)
 
-### __________________________________________________________________________________________  
+<p align ="center">
+__________________________________________________________________________________________  
+</p>
 ### Bonus!
 <p align="center">
 $U_{att} = \zeta d(q,q_{goal})$
