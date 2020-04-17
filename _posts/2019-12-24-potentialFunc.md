@@ -147,7 +147,7 @@ These are some of the drawbacks of potential functions. In the next post, we wil
 ### __________________________________________________________________________________________  
 ### Bonus!
 <p align="center">
-$U_att = \zeta d(q,q_{goal})$
+$U_{att} = \zeta d(q,q_{goal})$
 </p>
 Considering $\vec{v} = -\nabla U$,
 * What will be the magnitude of the vector $\vec{v}$?
