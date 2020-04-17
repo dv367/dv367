@@ -144,14 +144,15 @@ These are some of the drawbacks of potential functions. In the next post, we wil
 [1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
 [2]. _RI16-735 Robot Motion Planning_ - [link](http://www.cs.cmu.edu/~./motionplanning/)
 
+### ___________________________________________________________________________________
+### Bonus!
 <p align="center">
-### ________Bonus________
 $U_att = \zeta d(q,q_{goal})$
 </p>
 Considering $\vec{v} = -\nabla U$,
 * What will be the magnitude of the vector $\vec{v}$?
 * What will be the argument of the vector $\vec{v}$?
-* Is it feasible to use such attractive potential? (for instance take a differential/omni drive robot)
+* Is it feasible to use such attractive potential? Yes/No why?
   
 
 
