@@ -9,11 +9,21 @@ keywords: "Turtlebot3"
 
 ### 4.1 Espace Local Minimas?  
 We saw in the previous post that the overall potential function consists of multiple local minimas. One way to avoid is by using **Radnomized Path Planner (RPP)**. In this, series of random walks are initiated when the robot is stuck in the local minima. Another way can be using **Navigation Potential Function** which consists of only one minima which is at $q_{goal}$. This post will be focussed on Navigation Potential Function. More info about **RRP** can be found [here](https://www.cs.rice.edu/CS/Robotics/papers/barraquand1997rand-sample-scheme-journal.pdf)  
-Before moving on further, lets discuss about _Hessian_ matrix. Suppose a potential function $\nabla U(q)$ has a critical point at $q^{\dagger}$ i.e $\nabla U(q^{\dagger}) = 0$. The point $q^{\dagger}$ is either maximum, minimum or saddle point(**Figure 4.1**).One can look at the second derivative to determine the type of critical point. For real-valued functions, this second derivative is the _Hessian_ matrix.
+Before moving on further, lets discuss about _Hessian_ matrix. Suppose a potential function $\nabla U(q)$ has a critical point at $q^{\dagger}$ i.e $\nabla U(q^{\dagger}) = 0$. The point $q^{\dagger}$ is either maximum, minimum or saddle point(**Figure 4.1**).One can look at the second derivative to determine the type of critical point. For real-valued functions, this second derivative is the _Hessian_ matrix.   
+
+<p align="center">
+$$
+    \begin{matrix}
+    \frac{\partial^{2}U}{dq^{2}_{1}} & x & x^2 \\
+    1 & y & y^2 \\
+    1 & z & z^2 \\
+    \end{matrix}
+$$
+</p> 
 
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
 <p align="center">
-Figure 4.1 Maximum, Minimum, Saddle
+Figure 4.1 Minimum, Maximum, Saddle
 </p> 
 
 ### 4.2 Navigation Potential Function  
@@ -28,9 +38,9 @@ A morse function is one whose critical point($\frac{d}{dx}f(x) = 0$) are all non
 ### 4.3 Sphere Space
 This approach intially assumes that the configuration space is bounded by a sphere centered at $q_{0}$ and has _n_ $dim(Q_{free})$-dimensional spherical obstacles centered at $q_{1},q_{2},....q_{n}$. The repulsive function is defined as  
 <p align="center">
-\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag(1)
-\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag(2)
-where r_{i} is the radius of i^{th} sphere.
+$\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag(1)$
+$\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag(2)$
+where $r_{i}$ is the radius of $i^{th}$ sphere.
 </p>
 
 
