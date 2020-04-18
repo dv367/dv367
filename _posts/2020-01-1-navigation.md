@@ -35,7 +35,7 @@ Figure 4.1 Minimum, Maximum, Saddle
 ### 4.2 Navigation Potential Function  
 As stated above, navigation potential function have one local minima. The formal definition is as follows:  
 A function $\varphi$ : $Q_{free} \to [0,1]$ is called navigation potential if it  
-* is smooth (or atleast $C^{k}$ for $k \geqslant 2$ [continous dervatives](https://en.wikipedia.org/wiki/Smoothness))
+* is smooth (or atleast $C^{k}$ for $k \geqslant 2$ [continous derivatives](https://en.wikipedia.org/wiki/Smoothness))
 * has unique minimum at $q_{goal}$ in the connected component of free space that contains $q_{goal}$
 * is uniform maximal on the boundary of the free space
 * is [Morse](http://web.cse.ohio-state.edu/~wang.1016/courses/788/Lecs/lec10-brian.pdf)  
