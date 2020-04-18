@@ -14,11 +14,11 @@ Before moving on further, lets discuss about _Hessian_ matrix. Suppose a potenti
 
 <p align="center">
 $$\left[
-    \begin{array}{cc|c}
+    \begin{matrix}
     \frac{\partial^{2}U}{dq^{2}_{1}} & \cdots  & \frac{\partial^{2}U}{\partial q_{1} \partial q_{n}} \\
     \vdots & \ddots & \vdots \\
     \frac{\partial^{2}U}{\partial q_{n} \partial q_{1}} & \cdots & \frac{\partial^{2}U}{dq^{2}_{n}} \\
-    \end{array}
+    \end{matrix}
 \right]$$
 </p> 
 
