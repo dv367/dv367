@@ -13,7 +13,7 @@ Potential function approach directs a robot as if it were a particle moving in a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![obstacle]({{ site.url }}/assets/images/charged.png)  
 
 <p align="center">
-Figure 1. -ve goal attarcts +ve robot
+Figure 3.1 -ve goal attarcts +ve robot
 </p>  
 A potential function can be constructed as the sum of attractive and repulsive potenials.  
 <p align="center">
@@ -30,11 +30,11 @@ The simplest attractive potential function is one that grows quadratically with 
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
-In **Figure 2**, we can observe that as we move closer towards the goal the energy decreases and becomes zero at the goal(global minimum). 
+In **Figure 3.2**, we can observe that as we move closer towards the goal the energy decreases and becomes zero at the goal(global minimum). 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/attractive.png)   
 <p align="center">
-<b>Figure 2.</b> Attractive Potential Function $goal: (500,500)$
+Figure 3.2 Attractive Potential Function $goal: (500,500)$
 </p> 
 As discussed in the earlier post that our robot can move only in plane. From eqn(2), we can write
 <p align="center">
@@ -67,7 +67,7 @@ The repulsive potential keeps the robot away from the obstacles. It is usually d
 The following graph shows potential energy of two cylindrical obstacles of radius = $20cm$ and $Q^{\dagger}$ = $30cm$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/repulsive.png) 
 <p align="center">
-<b>Figure 3.</b> Repulsive Potential Function - two cylindrical obstacles
+Figure 3.3 Repulsive Potential Function - two cylindrical obstacles
 </p> 
 <br>
 Also, the velocity vector is given by
@@ -84,11 +84,11 @@ Similar to eqn(5) the argument $\phi$ is given by
 <p align="center">
 $\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
-One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. **Figure 4** should make this more clear. _Note: atan2 gives quadrant specific angles_ 
+One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. **Figure 3.4** should make this more clear. _Note: atan2 gives quadrant specific angles_ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
 <p align="center">
-<b>Figure 4.</b> Only nearest obstacle is considered
+Figure 3.4 Only nearest obstacle is considered
 </p>
 Similar to eqn(6) the magnitude is given by  
 <p align="center">
@@ -99,14 +99,14 @@ $\because |\nabla D(q)| = 1 \tag{14}$
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)}| \tag{15}$  
 </p>
 Now, the value of $\eta$ can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of $\eta$.  
-From **Figure 5**, we can now observe the overall potential function $U(q)$.
+From **Figure 3.5**, we can now observe the overall potential function $U(q)$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/overall.png) 
 <p align="center">
-<b>Figure 5.</b> Potential Function (Att + Rep)
+Figure 3.5 Potential Function (Att + Rep)
 </p>  
 
 ### 3.4 Results
-**Figure 6** is the simulation result with following environment configuration:  
+**Figure 3.6** is the simulation result with following environment configuration:  
 
 * Start = $S(0,0)$  
 * Goal = $G(500,500)$  
@@ -117,7 +117,7 @@ From **Figure 5**, we can now observe the overall potential function $U(q)$.
 _Note: The robot can reach the goal with any orientation_
 ![test]({{ site.url }}/assets/images/test.png) 
 <p align="center">
-<b>Figure 6.</b> Results
+Figure 3.6 Results
 </p>  
 **Video:**  
 <p align="center">
@@ -128,15 +128,15 @@ _Note: The robot can reach the goal with any orientation_
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
 ### 3.5 The Local Minima Problem
-**Figure 7** illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.  
+**Figure 3.7** illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
 <p align="center">
-<b>Figure 7.</b> One obstacle creating a local minima 
+Figure 3.7 One obstacle creating a local minima 
 </p>
-**Figure 8** illustrates a condition when all the obstacles in range(sensors) are considered and accordingly repulsive vectors are generated.  
+**Figure 3.8** illustrates a condition when all the obstacles in range(sensors) are considered and accordingly repulsive vectors are generated.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima2]({{ site.url }}/assets/images/minima2.PNG)
 <p align="center">
-<b>Figure 8.</b> Two obstacles creating a local minima
+Figure 3.8 Two obstacles creating a local minima
 </p>  
 These are some of the drawbacks of potential functions. We can conclude that potential function is not _complete_. In the next post, we will se how can we avoid the local minimas.  
 
