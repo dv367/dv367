@@ -21,14 +21,10 @@ $$\left[
     \end{matrix}
 \right]$$
 </p> 
-When the Hessian matrix:  
-<div class="divider"></div>
-| Tables        | Are           |   
-| ----------------- |:-----------------------------------------:|   
-| non-singular      | $q^{\dagger}$ is non-degenerate(isolated) |  
-| positive-definite | $q^{\dagger}$ is local minimum            |    
-| negative-definite | $q^{\dagger}$ is local maximum            |  
-<div class="divider"></div>
+When the Hessian matrix is   
+ * non-singular, then $q^{\dagger}$ is non-degenerate(isolated).  
+ * positive-definite, then $q^{\dagger}$ is local minimum.           
+ * negative-definite, then $q^{\dagger}$ is local maximum.
 
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
 <p align="center">
