@@ -23,6 +23,7 @@ $$\left[
 </p> 
 When the Hessian matrix:  
 <div class="divider"></div>
+| Tables        | Are           | 
 | ----------------- |:-----------------------------------------:| 
 | non-singular      | $q^{\dagger}$ is non-degenerate(isolated) |
 | positive-definite | $q^{\dagger}$ is local minimum            | 
