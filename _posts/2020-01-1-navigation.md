@@ -13,13 +13,13 @@ We saw in the previous post that the overall potential function consists of mult
 Before moving on further, lets discuss about _Hessian_ matrix. Suppose a potential function $\nabla U(q)$ has a critical point at $q^{\dagger}$ i.e $\nabla U(q^{\dagger}) = 0$. The point $q^{\dagger}$ is either maximum, minimum or saddle point(**Figure 4.1**).One can look at the second derivative to determine the type of critical point. For real-valued functions, this second derivative is the _Hessian_ matrix.   
 
 <p align="center">
-$$
-    \begin{matrix}
+$$\left[
+    \begin{array}{cc|c}
     \frac{\partial^{2}U}{dq^{2}_{1}} & \cdots  & \frac{\partial^{2}U}{\partial q_{1} \partial q_{n}} \\
     \vdots & \ddots & \vdots \\
     \frac{\partial^{2}U}{\partial q_{n} \partial q_{1}} & \cdots & \frac{\partial^{2}U}{dq^{2}_{n}} \\
-    \end{matrix}
-$$
+    \end{array}
+\right]$$
 </p> 
 
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
