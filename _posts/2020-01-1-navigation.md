@@ -23,11 +23,11 @@ $$\left[
 </p> 
 When the Hessian matrix:  
 <div class="divider"></div>
-| Tables        | Are           | 
-| ----------------- |:-----------------------------------------:| 
-| non-singular      | $q^{\dagger}$ is non-degenerate(isolated) |
-| positive-definite | $q^{\dagger}$ is local minimum            | 
-| negative-definite | $q^{\dagger}$ is local maximum            |
+| Tables        | Are           |   
+| ----------------- |:-----------------------------------------:|   
+| non-singular      | $q^{\dagger}$ is non-degenerate(isolated) |  
+| positive-definite | $q^{\dagger}$ is local minimum            |    
+| negative-definite | $q^{\dagger}$ is local maximum            |  
 <div class="divider"></div>
 
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
