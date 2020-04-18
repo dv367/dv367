@@ -9,7 +9,8 @@ keywords: "Turtlebot3"
 
 ### 4.1 Escape Local Minimas?  
 We saw in the previous post that the overall potential function consists of multiple local minimas. One way to avoid is by using **Radnomized Path Planner (RPP)**. In this, series of random walks are initiated when the robot is stuck in the local minima. Another way can be using **Navigation Potential Function** which consists of only one minima which is at $q_{goal}$. This post will be focussed on Navigation Potential Function. More info about **RRP** can be found [here](https://www.cs.rice.edu/CS/Robotics/papers/barraquand1997rand-sample-scheme-journal.pdf)
-<br>
+  
+    
 Before moving on further, lets discuss about _Hessian_ matrix. Suppose a potential function $\nabla U(q)$ has a critical point at $q^{\dagger}$ i.e $\nabla U(q^{\dagger}) = 0$. The point $q^{\dagger}$ is either maximum, minimum or saddle point(**Figure 4.1**).One can look at the second derivative to determine the type of critical point. For real-valued functions, this second derivative is the _Hessian_ matrix.   
 
 <p align="center">
@@ -24,8 +25,8 @@ $$\left[
 When the Hessian matrix is   
  * non-singular, then $q^{\dagger}$ is non-degenerate(isolated).  
  * positive-definite, then $q^{\dagger}$ is local minimum.           
- * negative-definite, then $q^{\dagger}$ is local maximum.
-
+ * negative-definite, then $q^{\dagger}$ is local maximum.  
+  
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
 <p align="center">
 Figure 4.1 Minimum, Maximum, Saddle
