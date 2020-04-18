@@ -44,8 +44,10 @@ A morse function is one whose critical point($\frac{d}{dx}f(x) = 0$) are all non
 ### 4.3 Sphere Space
 This approach intially assumes that the configuration space is bounded by a sphere centered at $q_{0}$ and has _n_ $dim(Q_{free})$-dimensional spherical obstacles centered at $q_{1},q_{2},....q_{n}$. The repulsive function is defined as  
 <p align="center">
-$\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag(1)$
-$\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag(2)$
+$\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag{1}$
+<br>
+$\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag{2}$
+<br>
 where $r_{i}$ is the radius of $i^{th}$ sphere.
 </p>
 
