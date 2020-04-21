@@ -61,11 +61,17 @@ where $k$ is a positive number.
 </p>  
 **Key Points:**
 * the value of $\gamma_{k}$ is zero at goal.
+  
 * $\frac{\gamma_{k}}{\beta}$ tends to $\infty$ as $q$ approaches boundary of an obstacle.
+  
 * For large value of $k$, $\frac{\gamma_{k}}{\beta}$ has a unique minimum. As gradient $\frac{\partial \gamma_{k}}{\partial q}$ dominates  $\frac{\partial \beta}{\partial q}$.
+  
 * increasing the value of $k$ causes other minimas to gravitate towards boundary of the obstacle and the range of repulsive influence of obstacle becomes small relative to attractive fucntion.
+  
 * only the nearby obstacle will have significant effect on value of $\frac{\gamma_{k}}{\beta}$.
+  
 * therefore, only opportunity of local minima appear on the radial line of obstacle and goal.(One may refer to Figure 3.7 in previous post)
+  
 * for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
 
 
