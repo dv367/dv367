@@ -27,6 +27,7 @@ When the Hessian matrix is
  * positive-definite, then $q^{\dagger}$ is local minimum.           
  * negative-definite, then $q^{\dagger}$ is local maximum.    
  One can refer this [wiki](https://en.wikipedia.org/wiki/Definiteness_of_a_matrix) for matrix properties. 
+  
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
 <p align="center">
 Figure 4.1 Minimum, Maximum, Saddle
@@ -59,6 +60,7 @@ The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the bo
 $\gamma_{k} = (d(q,q_{goal}))^{2k}$  
 where $k$ is a positive number.
 </p>  
+
 **Key Points:**
 * the value of $\gamma_{k}$ is zero at goal.
   
