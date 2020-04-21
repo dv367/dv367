@@ -73,7 +73,7 @@ where $k$ is a positive number.
   
 * only the nearby obstacle will have significant effect on value of $\frac{\gamma_{k}}{\beta}$.
   
-* therefore, only opportunity of local minima appear on the radial line of obstacle and goal.(One may refer to Figure 3.7 in previous post)
+* therefore, only opportunity of local minima appear on the radial line of obstacle and goal.(One may refer to **Figure 3.7** in previous post)
   
 * for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
 <div class="divider"></div>
