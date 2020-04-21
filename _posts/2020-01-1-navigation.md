@@ -57,10 +57,11 @@ ${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)} \tag{3}$
 </p>  
 The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the boundary-positive and outside the boundary-negative. However, for the $0^{th}$ it is positive outside the boundary and negative inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
 <p align="center">  
-$\gamma_{k} = (d(q,q_{goal}))^{2k} \tag{4}$  
+$\gamma_{k} = (d(q,q_{goal}))^{2k} \tag{4}$
+  <br>
 where $k$ is a positive number.
 </p>  
-
+<div class="divider"></div>
 **Key Points:**
 * the value of $\gamma_{k}$ is zero at goal.
   
@@ -75,9 +76,11 @@ where $k$ is a positive number.
 * therefore, only opportunity of local minima appear on the radial line of obstacle and goal.(One may refer to Figure 3.7 in previous post)
   
 * for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
-
+<div class="divider"></div>
 Now, we need to do some scaling as $\frac{\gamma_{k}}{\beta}$ can have any arbitary values. The following equation is called an analytical switch. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![switch]({{ site.url }}/assets/images/switch.PNG) 
 <p align="center">
-$\sigma_{\lambda}(x) = \frac{x}{\lambda + x}$ 
+$\sigma_{\lambda}(x) = \frac{x}{\lambda + x} \tag{5}$ 
 </p>
+Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**.  
 
