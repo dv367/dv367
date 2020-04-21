@@ -60,8 +60,8 @@ $\gamma_{k} = (d(q,q_{goal}))^{2k}$
 where $k$ is a positive number.
 </p>  
 **Key Points:**
-* the value of $\gamma_{k} is zero at goal.$
-* $\frac{\gamma_{k}}{\beta}$ tends to \infty as $q$ approaches boundary of an obstacle.
+* the value of $\gamma_{k}$ is zero at goal.
+* $\frac{\gamma_{k}}{\beta}$ tends to $\infty$ as $q$ approaches boundary of an obstacle.
 * For large value of $k$, $\frac{\gamma_{k}}{\beta}$ has a unique minimum. As gradient $\frac{\partial \gamma_{k}}{\partial q}$ dominates  $\frac{\partial \beta}{\partial q}$.
 * increasing the value of $k$ causes other minimas to gravitate towards boundary of the obstacle and the range of repulsive influence of obstacle becomes small relative to attractive fucntion.
 * only the nearby obstacle will have significant effect on value of $\frac{\gamma_{k}}{\beta}$.
