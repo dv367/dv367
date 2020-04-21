@@ -53,6 +53,11 @@ where $r_{i}$ is the radius of $i^{th}$ sphere.
 The overall repulsive function is written as  
 <p align="center">  
 $\prod_{i=0}^{n} \beta_{i}(q)$
-</p>
+</p>  
+Next, the attractive function is defined as
+<p align="center">  
+$\gamma_{k} = ((d(q,q_{goal})))^{2k}$
+</p>  
+
 
 
