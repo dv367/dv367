@@ -82,9 +82,12 @@ Now, we need to do some scaling as $\frac{\gamma_{k}}{\beta}$ can have any arbit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![switch]({{ site.url }}/assets/images/switch.PNG) 
 <p align="center">
 Figure 4.2 Analytical Switch  
+</p>
 <br>
+<p align="center">
 $\sigma_{\lambda}(x) = \frac{x}{\lambda + x} \tag{5}$ 
 </p>
+
 Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**.  
 
 ![example]({{ site.url }}/assets/images/example.PNG)  
