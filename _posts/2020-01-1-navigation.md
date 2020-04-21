@@ -53,11 +53,11 @@ where $r_{i}$ is the radius of $i^{th}$ sphere.
 </p>  
 The overall repulsive function is written as the multiplication of every sphere, 
 <p align="center">  
-${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)}$
+${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)} \tag{3}$
 </p>  
 The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the boundary-positive and outside the boundary-negative. However, for the $0^{th}$ it is positive outside the boundary and negative inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
 <p align="center">  
-$\gamma_{k} = (d(q,q_{goal}))^{2k}$  
+$\gamma_{k} = (d(q,q_{goal}))^{2k} \tag{4}$  
 where $k$ is a positive number.
 </p>  
 
@@ -76,4 +76,8 @@ where $k$ is a positive number.
   
 * for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
 
+Now, we need to do some scaling as $\frac{\gamma_{k}}{\beta}$ can have any arbitary values. The following equation is called an analytical switch. 
+<p align="center">
+$\sigma_{\lambda}(x) = \frac{x}{\lambda + x}$ 
+</p>
 
