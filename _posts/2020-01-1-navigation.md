@@ -25,8 +25,8 @@ $$\left[
 When the Hessian matrix is   
  * non-singular, then $q^{\dagger}$ is non-degenerate(isolated).  
  * positive-definite, then $q^{\dagger}$ is local minimum.           
- * negative-definite, then $q^{\dagger}$ is local maximum.  
-  
+ * negative-definite, then $q^{\dagger}$ is local maximum.    
+ One can refer this [wiki](https://en.wikipedia.org/wiki/Definiteness_of_a_matrix) for matrix properties. 
 ![minmaxsad]({{ site.url }}/assets/images/minmaxsaddle.png)   
 <p align="center">
 Figure 4.1 Minimum, Maximum, Saddle
@@ -42,7 +42,7 @@ A function $\varphi$ : $Q_{free} \to [0,1]$ is called navigation potential if it
 A morse function is one whose critical point($\frac{d}{dx}f(x) = 0$) are all non-degenrate i.e they are isolated.
 
 ### 4.3 Sphere Space
-This approach intially assumes that the configuration space is bounded by a sphere centered at $q_{0}$ and has _n_ $dim(Q_{free})$-dimensional spherical obstacles centered at $q_{1},q_{2},....q_{n}$. The repulsive function is defined as  
+This approach intially assumes that the configuration space is bounded by a sphere centered at $q_{0}$ and has _n_ $dim(Q_{free})$-dimensional spherical obstacles centered at $q_{1},q_{2},....q_{n}$. The spheres are assumed to be disjoint. The repulsive function is defined as  
 <p align="center">
 $\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag{1}$
 <br>
@@ -50,14 +50,22 @@ $\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag{2}$
 <br>
 where $r_{i}$ is the radius of $i^{th}$ sphere.
 </p>  
-The overall repulsive function is written as  
+The overall repulsive function is written as the multiplication of every sphere, 
 <p align="center">  
 ${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)}$
 </p>  
 The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the boundary-positive and outside the boundary-negative. However, for the $0^{th}$ it is positive outside the boundary and negative inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
 <p align="center">  
-$\gamma_{k} = (d(q,q_{goal}))^{2k}$
+$\gamma_{k} = (d(q,q_{goal}))^{2k}$  
+where $k$ is a positive number.
 </p>  
-
+**Key Points:**
+* the value of $\gamma_{k} is zero at goal.$
+* $\frac{\gamma_{k}}{\beta}$ tends to \infty as $q$ approaches boundary of an obstacle.
+* For large value of $k$, $\frac{\gamma_{k}}{\beta}$ has a unique minimum. As gradient $\frac{\partial \gamma_{k}}{\partial q}$ dominates  $\frac{\partial \beta}{\partial q}$.
+* increasing the value of $k$ causes other minimas to gravitate towards boundary of the obstacle and the range of repulsive influence of obstacle becomes small relative to attractive fucntion.
+* only the nearby obstacle will have significant effect on value of $\frac{\gamma_{k}}{\beta}$.
+* therefore, only opportunity of local minima appear on the radial line of obstacle and goal.(One may refer to Figure 3.7 in previous post)
+* for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
 
 
