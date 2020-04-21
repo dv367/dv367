@@ -78,9 +78,17 @@ where $k$ is a positive number.
 * for a **very** large value of $k$, Hessian matrix can be positive definite. Therefore, only one minima can be at goal which is infact the global minima. 
 <div class="divider"></div>
 Now, we need to do some scaling as $\frac{\gamma_{k}}{\beta}$ can have any arbitary values. The following equation is called an analytical switch. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![switch]({{ site.url }}/assets/images/switch.PNG) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![switch]({{ site.url }}/assets/images/switch.PNG) 
 <p align="center">
+Figure 4.2 Analytical Switch  
+<br>
 $\sigma_{\lambda}(x) = \frac{x}{\lambda + x} \tag{5}$ 
 </p>
 Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**.  
+
+![example]({{ site.url }}/assets/images/example.PNG)  
+<p align="center">
+Figure 4.2 Analytical switch limiting the function  
+</p>
 
