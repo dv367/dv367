@@ -88,7 +88,7 @@ Figure 4.2 Analytical Switch
 $\sigma_{\lambda}(x) = \frac{x}{\lambda + x} \tag{5}$ 
 </p>
 
-Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**.  
+Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**. _Note: It is not scaled to graph._  
 
 ![example]({{ site.url }}/assets/images/example.PNG)  
 <p align="center">
