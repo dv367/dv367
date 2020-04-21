@@ -52,7 +52,7 @@ where $r_{i}$ is the radius of $i^{th}$ sphere.
 </p>  
 The overall repulsive function is written as  
 <p align="center">  
-$\prod_{i=0}^{n} \beta_{i}(q)$
+${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)}$
 </p>  
 Next, the attractive function is defined as
 <p align="center">  
