@@ -49,6 +49,10 @@ $\beta_{0}(q) = -d^{2}(q,q_{0}) + r^{2}_{0} \tag{1}$
 $\beta_{i}(q) = d^{2}(q,q_{i}) - r^{2}_{i} \tag{2}$
 <br>
 where $r_{i}$ is the radius of $i^{th}$ sphere.
+</p>  
+The overall repulsive function is written as  
+<p align="center">  
+$\prod_{i=0}^{n} \beta_{i}(q)$
 </p>
 
 
