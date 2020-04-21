@@ -54,9 +54,9 @@ The overall repulsive function is written as
 <p align="center">  
 ${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)}$
 </p>  
-Next, the attractive function is defined as
+The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the boundary-positive and outside the boundary-negative. However, for the $0^{th}$ it is positive outside the boundary and negative inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
 <p align="center">  
-$\gamma_{k} = ((d(q,q_{goal})))^{2k}$
+$\gamma_{k} = (d(q,q_{goal}))^{2k}$
 </p>  
 
 
