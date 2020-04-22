@@ -110,8 +110,8 @@ Figure 3.5 Potential Function (Att + Rep)
 
 * Start = $S(0,0)$  
 * Goal = $G(500,500)$  
-* Cylindrical obstacle at $(100,130)$ and $(330,270)$ with raidus of $20cm$  
-* Radius of robot = $20cm$  
+* Cylindrical obstacle at $(100,130)$ and $(330,270)$ with raidus of $10cm$  
+* Reference point used to construct the configuration space obstacles is center of the robot  
 * $Q^{\dagger} = 30cm$  
 
 _Note: The robot can reach the goal with any orientation_
