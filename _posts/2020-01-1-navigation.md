@@ -97,11 +97,12 @@ Figure 4.2 Analytical switch limiting the function
 
 We can now apply the same on the function $\frac{\gamma_{k}}{\beta}$. The function $s(q,\lambda)$ has a zero value at goal, unitary at boundary of an obstacle, and varies continuously in free space. 
 <p align="center">
-$s(q,\lambda) = (\sigma \circ \frac{\gamma_{k}}{\beta})(q) = \frac{\gamma_{k}}{\lambda \beta + \gamma_{k}}(q) \tag{6}$
+$s(q,\lambda) = (\sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{\gamma_{k}}{\lambda \beta + \gamma_{k}}(q) \tag{6}$
 </p>
 It has a unique minimum at for a large enough value of $k$. However, this is still not necessarily a Morse function. So, we introduce another function to sharpen $s(q,\lambda)$. This sharpening function is 
 <p align="center">
 $\xi_{k} = x^\frac{1}{k} \tag{7}$
+$\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{d^2(q,q_{goal})}{[(d(q,q_{goal}))^{2k} + \lambda \beta(q)]^\frac{1}{k}}$  
 </p>
 
 
