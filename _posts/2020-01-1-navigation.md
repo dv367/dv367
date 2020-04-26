@@ -106,4 +106,8 @@ $\xi_{k} = x^\frac{1}{k} \tag{7}$
 $\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{d^2(q,q_{goal})}{[(d(q,q_{goal}))^{2k} + \lambda \beta(q)]^\frac{1}{k}} \tag{8}$  
 </p>
 
+![navi]({{ site.url }}/assets/images/navi.jpg)  
+<p align="center">
+Figure 4.3 Visualization of navigation function with values of $k=3,4,5,6,7,8,10$  
+</p>
 
