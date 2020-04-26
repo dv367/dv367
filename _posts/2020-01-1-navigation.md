@@ -108,6 +108,6 @@ $\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q)
 
 ![navi]({{ site.url }}/assets/images/navi.jpg)  
 <p align="center">
-Figure 4.3 Visualization of navigation function with values of $k=3,4,5,6,7,8,10$  
+Figure 4.3 Visualization of navigation function with five obstacles for $k=3,4,5,6,7,8,10$  
 </p>
 
