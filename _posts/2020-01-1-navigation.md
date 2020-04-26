@@ -115,12 +115,13 @@ The effect of increasing $k$ can be seen in the **Figure 4.4**. For $k=10$, $\va
 ### 4.4 Implementation  
 Similar to our previous post, the velocity can be considered as gradient of this function. Before that, we need to determine the value of $\lambda$. The value of $\lambda$ should be such that,
 <p center="align">
-$\frac{\lambda \beta}{\gamma_{k}} << 1 \tag{9}$ 
+$\frac{\lambda \beta}{\gamma_{k}} << 1. \tag{9}$ 
 </p>
 The value of $\gamma_{k}$ will be maximum on the boundary with its line segment to goal passing through the center of $0^{th}$ obstacle. With the same boundary point, we can further calculate the value of $\beta(q)$. Finally, the value of $\lambda$ can be calculated as,
 <p center="align">
 $ \lambda = |\frac{\beta^{\dagger}}{\gamma^{\dagger}_{k}}| \epsilon \tag{10}$   
-
+</p>
+<p center="align">
 $where, \epsilon = 1e-25$
 </p> 
-The value of $\epsilon$ was experimentally determined, by analysing the strength of repulsive potential. 
+The value of $\epsilon$ was experimentally determined by analysing the strength of repulsive potential against the attractive potential. 
