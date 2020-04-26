@@ -115,5 +115,6 @@ The effect of increasing $k$ can be seen in the **Figure 4.4**. For $k=10$, $\va
 ### Implementation  
 Similar to our previous post, the velocity can be considered as gradient of this function. Before that, we need to determine the value of $\lambda$. The value of $\lambda$ should be such that,
 <p center="align">
-$\lambda \frac{\beta}{\gamma_{k}} \(<\!\!<\) 1 \tag{9}$ 
+$\frac{\lambda \beta}{\gamma_{k}} << 1 \tag{9}$ 
 </p>
+The value of $\gamma_{k}$ will be maximum on the boundary with its line segment to goal is passing through the center of $0^{th}$ obstacle.
