@@ -55,7 +55,7 @@ The overall repulsive function is written as the multiplication of every sphere,
 <p align="center">  
 ${\displaystyle \prod_{i=0}^{n} \beta_{i}(q)} \tag{3}$
 </p>  
-The repulsive function of $i^{th}$ sphere at the boundary is zero, inside the boundary-positive and outside the boundary-negative. However, for the $0^{th}$ it is positive outside the boundary and negative inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
+The repulsive function of $i^{th}$ sphere at the boundary is **zero**, **positive** inside the boundary and **negative** outside the boundary. However, for the $0^{th}$ it is **positive** outside the boundary and **negative** inside the boundary. We can think of a disc of some thickness removed from a solid block. Now, imagine a robot is kept in that empty space or impression indicating the configuration space the robot has to work in. Next, the attractive function is defined as
 <p align="center">  
 $\gamma_{k} = (d(q,q_{goal}))^{2k} \tag{4}$
   <br>
@@ -102,7 +102,8 @@ $s(q,\lambda) = (\sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{\ga
 It has a unique minimum at for a large enough value of $k$. However, this is still not necessarily a Morse function. So, we introduce another function to sharpen $s(q,\lambda)$. This sharpening function is 
 <p align="center">
 $\xi_{k} = x^\frac{1}{k} \tag{7}$
-$\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{d^2(q,q_{goal})}{[(d(q,q_{goal}))^{2k} + \lambda \beta(q)]^\frac{1}{k}}$  
+<br>  
+$\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q) = \frac{d^2(q,q_{goal})}{[(d(q,q_{goal}))^{2k} + \lambda \beta(q)]^\frac{1}{k}} \tag{8}$  
 </p>
 
 
