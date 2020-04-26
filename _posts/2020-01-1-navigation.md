@@ -92,7 +92,7 @@ Lets see how this switch limits a given function. Take an example of $y = x^{2} 
 
 ![example]({{ site.url }}/assets/images/example.PNG)  
 <p align="center">
-Figure 4.2 Analytical switch limiting the function  
+Figure 4.3 Analytical switch limiting the function  
 </p>  
 
 We can now apply the same on the function $\frac{\gamma_{k}}{\beta}$. The function $s(q,\lambda)$ has a zero value at goal, unitary at boundary of an obstacle, and varies continuously in free space. 
@@ -108,6 +108,12 @@ $\varphi(q) = (\xi_{k} \circ \sigma_{\lambda} \circ \frac{\gamma_{k}}{\beta})(q)
 
 ![navi]({{ site.url }}/assets/images/navi.jpg)  
 <p align="center">
-Figure 4.3 Visualization of navigation function with five obstacles for $k=3,4,5,6,7,8,10$  
+Figure 4.4 Visualization of navigation function with five obstacles for $k=3,4,5,6,7,8,10$  
 </p>
+The effect of increasing $k$ can be seen in the **Figure 4.4**. For $k=10$, $\varphi$ has one minima which is at goal.
 
+### Implementation  
+Similar to our previous post, the velocity can be considered as gradient of this function. Before that, we need to determine the value of $\lambda$. The value of $\lambda$ should be such that,
+<p center="align">
+$\lambda \frac{\beta}{\gamma_{k}} \(<\!\!<\) 1 \tag{9}$ 
+</p>
