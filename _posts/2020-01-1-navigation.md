@@ -93,5 +93,12 @@ Lets see how this switch limits a given function. Take an example of $y = x^{2} 
 ![example]({{ site.url }}/assets/images/example.PNG)  
 <p align="center">
 Figure 4.2 Analytical switch limiting the function  
+</p>  
+
+We can now apply the same with the function $\frac{\gamma_{k}}{\beta}$,
+
+<p align="center">
+$s(q,\lambda) = (\sigma \circ \frac{\gamma_{k}}{\beta})(q) = \frac{\gamma_{k}}{\lambda \beta + \gamma_{k}}(q) \tag{6}$
 </p>
+
 
