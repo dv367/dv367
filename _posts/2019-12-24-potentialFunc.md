@@ -141,8 +141,8 @@ Figure 3.8 Two obstacles creating a local minima
 These are some of the drawbacks of potential functions. We can conclude that potential function is not _complete_. In the next post, we will se how can we avoid the local minimas.  
 
 ### 3.6 References
-[1]. _Principles of Robot Motion: Theory, Algorithms, and Implementation_  
-[2]. _RI16-735 Robot Motion Planning_ - [link](http://www.cs.cmu.edu/~./motionplanning/)
+[1]. Choset H., Lynch  K. M., Hutchinson S. Kantor G., Burgard W., Kavraki L. E., Thrun Sebastian. Principles of Robot Motion. MIT Press 
+[2]. RI16-735 Robot Motion Planning - [link](http://www.cs.cmu.edu/~./motionplanning/)
 
 <div class="divider"></div>
 ### Bonus!
