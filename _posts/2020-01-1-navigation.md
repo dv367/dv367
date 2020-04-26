@@ -123,4 +123,4 @@ $ \lambda = |\frac{\beta^{\dagger}}{\gamma^{\dagger}_{k}}| \epsilon \tag{10}$
 
 $where, \epsilon = 1e-25$
 </p> 
-The value of $\epsilon$ was obtained by experimental analysis. 
+The value of $\epsilon$ was experimentally determined, by analysing the strength of repulsive potential. 
