@@ -117,7 +117,7 @@ Similar to our previous post, the velocity can be considered as gradient of this
 <p center="align">
 $\frac{\lambda \beta}{\gamma_{k}} << 1. \tag{9}$ 
 </p>
-The value of $\gamma_{k}$ will be maximum on the boundary with its line segment to goal passing through the center of $0^{th}$ obstacle. With the same boundary point, we can further calculate the value of $\beta(q)$. Finally, the value of $\lambda$ can be calculated as,
+The value of $\gamma_{k}$ will be maximum on the boundary point $\dagger$ with its line segment to goal passing through the center of $0^{th}$ obstacle. With the same boundary point $\dagger$, we can further calculate the value of $\beta(q)$. Finally, the value of $\lambda$ can be calculated as,
 <p center="align">
 $ \lambda = |\frac{\beta^{\dagger}}{\gamma^{\dagger}_{k}}| \epsilon \tag{10}$   
 </p>
