@@ -124,4 +124,6 @@ $ \lambda = |\frac{\beta^{\dagger}}{\gamma^{\dagger}_{k}}| \epsilon \tag{10}$
 <p center="align">
 $where, \epsilon = 1e-25$
 </p> 
-The value of $\epsilon$ was experimentally determined by analysing the strength of repulsive potential against the attractive potential. 
+The value of $\epsilon$ was experimentally determined by analysing the strength of repulsive potential against the attractive potential.
+
+**</>** [GitHub](https://github.com/dv367/planning-cmu/tree/master/my_robot/src/scripts)
