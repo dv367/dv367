@@ -139,6 +139,7 @@ Figure 3.7 One obstacle creating a local minima
 Figure 3.8 Two obstacles creating a local minima
 </p>  
 These are some of the drawbacks of potential functions. We can conclude that potential function is not **complete**. In the next post, we will se how can we avoid the local minimas. However, potential functions are known for their generalization to higher dimensions too.  
+**</>** [GitHub](https://github.com/dv367/planning-cmu/tree/master/my_robot/src/scripts)
 
 ### 3.6 References
 [1]. Choset H., Lynch  K. M., Hutchinson S. Kantor G., Burgard W., Kavraki L. E., Thrun Sebastian. Principles of Robot Motion. MIT Press   
