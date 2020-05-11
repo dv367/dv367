@@ -126,4 +126,15 @@ $where, \epsilon = 1e-25$
 </p> 
 The value of $\epsilon$ was experimentally determined by analysing the strength of repulsive potential against the attractive potential.
 
+### 4.5 Conclusion
+The main takeaways of this function is-  
+* It can be extended to higher dimensions as well.
+* It has only one local minimum which is at $q_goal$.
+* Though it has only one local minimum, it suffers from saddle points which results in wobbly motion of the robot.
+* One may observe in **Figure 4.4** for $k=10$, the magnitude of the function is almost constant everywhere resulting in steep changes near the goal.
+
+### 4.6 References
+[1]. Choset H., Lynch  K. M., Hutchinson S. Kantor G., Burgard W., Kavraki L. E., Thrun Sebastian. Principles of Robot Motion. MIT Press   
+[2]. RI16-735 Robot Motion Planning - [link](http://www.cs.cmu.edu/~./motionplanning/)
+
 **</>** [GitHub](https://github.com/dv367/planning-cmu/tree/master/my_robot/src/scripts)
