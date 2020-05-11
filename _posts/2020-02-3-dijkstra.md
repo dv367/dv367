@@ -32,7 +32,7 @@ For now, just assume closed and open nodes as explored nodes. In the next post, 
 Similar to how the nodes were prioritized on the basis of distance to goal, in Dijsktra's algorithm the nodes are prioritized on the basis of distance to the start i.e. the nodes which are closer to start. Same as above, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes. Assume, eight-point connectivity.  
 
 <p align="center">
-$$f(n) = g(n) \tag{1}$$
+$$f(n) = g(n) \tag{2}$$
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dij]({{ site.url }}/assets/gifs/dijjj.gif)
