@@ -45,6 +45,6 @@ Figure 6.2 Dijkstra
 
 <hr>
 ### Bonus!
-* In the example of greedy search, which is in 2-dimension. What do you think about the function $h(n)$?
+* In the example of greedy search, which is in 2-dimension. What would be the function $h(n)$?
 <hr>
 
