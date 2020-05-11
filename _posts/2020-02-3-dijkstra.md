@@ -8,13 +8,13 @@ keywords: "greedy, dijkstra, graph based planning"
 ---  
 
 ### 6.1 Again, some terminologies!
-* **Star(n)** - represents set of nodes which are adjacent to n.
+* **Star($n$)** - represents set of nodes which are adjacent to n.
 * **$c(n_1,n_2)$** - is the length of edge connecting $n_1$ and $n_2$.
-* **O** - open set(priority queue)
-* **C** - closed set(all processed nodes)
-* **h(n)** - heuristic cost function, which returns the estimated cost of the shortest path from $n$ to $q_goal$.
-* **g(n)** - is the total length of **backpointer** path from $n$ to $q_{start}$
-* **f(n)** - is the estimated cost of shortest path from $q_{start}$ to $q_{goal}$ via $n$.
+* **$O$** - open set(priority queue)
+* **$C$** - closed set(all processed nodes)
+* **$h(n)$** - heuristic cost function, which returns the estimated cost of the shortest path from $n$ to $q_goal$.
+* **$g(n)$** - is the total length of **backpointer** path from $n$ to $q_{start}$
+* **$f(n)$** - is the estimated cost of shortest path from $q_{start}$ to $q_{goal}$ via $n$.
 
 ### 6.2 Greedy!
 As we saw in the previous post, the wave-front planner doesn't take any advantage of the prior information about the start/goal position. Let us make the search a bit greedy by expanding/exploring nodes based on distance to goal i.e. node which are closer to goal are given more priority. This makes the search greedy and is only considering what it **believes**. In the following example, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes. Assume, eight-point connectivity. 
