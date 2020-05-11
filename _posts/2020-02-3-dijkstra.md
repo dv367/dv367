@@ -8,7 +8,7 @@ keywords: "greedy, dijkstra, graph based planning"
 ---  
 
 ### 6.1 Again, some terminologies!
-* **Star($n$)** - represents set of nodes which are adjacent to n.
+* **$Star(n)$** - represents set of nodes which are adjacent to n.
 * **$c(n_1,n_2)$** - is the length of edge connecting $n_1$ and $n_2$.
 * **$O$** - open set(priority queue)
 * **$C$** - closed set(all processed nodes)
@@ -40,5 +40,8 @@ $$f(n) = g(n) \tag{2}$$
 Figure 6.2 Dijkstra 
 </p>
 
-
+<hr>
+### Bonus!
+* In the example of greedy search, which is in 2-dimension. What do you think about the function $h(n)$?
+<hr>
 
