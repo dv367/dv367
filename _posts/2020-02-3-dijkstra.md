@@ -14,10 +14,13 @@ As we saw in the previous post, the wave-front planner doesn't take any advantag
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| zebra stripes | are neat      |    $1 |  
+
+
 ---|---|---  
 dark-blue| obstacle   
 purple|free space  
 yellow|closed state  
 green|open states  
  <div class="divider"></div>
+![greed]({{ site.url }}/assets/gifs/greedy.gif)
