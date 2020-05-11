@@ -29,6 +29,6 @@ Figure 6.2 Dijkstra
 * **O** - open set(priority queue)
 * **C** - closed set(all processed nodes)
 * **h(n)** - heuristic cost function, which returns the estimated cost of the shortest path from $n$ to $q_goal$.
-* **g(n)** - is the total length of **backpointer** path from $n$ to $q_start$
-* **f(n)** - is the estimated cost of shortest path from $q_start$ to $q_goal$ via $n$.
+* **g(n)** - is the total length of **backpointer** path from $n$ to $q_{start}$
+* **f(n)** - is the estimated cost of shortest path from $q_start$ to $q_{goal}$ via $n$.
 
