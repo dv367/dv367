@@ -15,7 +15,7 @@ As we saw in the previous post, the wave-front planner doesn't take any advantag
 Figure 6.1 Greedy search
 </p>
 
-### 6.2 Again, some terminologies!
+### 6.3 Again, some terminologies!
 * **Star(n)** - represents set of nodes which are adjacent to n.
 * **$c(n_1,n_2)$** - is the length of edge connecting $n_1$ and $n_2$.
 * **O** - open set(priority queue)
