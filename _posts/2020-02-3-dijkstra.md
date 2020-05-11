@@ -16,7 +16,8 @@ Figure 6.1 Greedy search
 </p>
 
 ### 6.2 Dijkstra's algorithm
-Similar to how the nodes were prioritized on the basis of distance to goal, in Dijsktra's algorithm the nodes are prioritized on the basis of distance to the start i.e. the nodes which are closer to start. Same as above, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes.
+Similar to how the nodes were prioritized on the basis of distance to goal, in Dijsktra's algorithm the nodes are prioritized on the basis of distance to the start i.e. the nodes which are closer to start. Same as above, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes.  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![dij]({{ site.url }}/assets/gifs/dijj.gif)
 <p align="center">
 Figure 6.2 Dijkstra
