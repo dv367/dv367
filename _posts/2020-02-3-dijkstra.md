@@ -26,7 +26,7 @@ $$f(n) = h(n) \tag{1}$$
 <p align="center">
 Figure 6.1 Greedy search
 </p>
-For now, just assume closed and open nodes as explored nodes. In the next post, we will discuss these terminologies with much depth and also the implementation part of these algorithms.     
+For now, just assume closed and open nodes as explored nodes. In the **next post**, we will discuss these terminologies with much depth and also the **implementation part of these algorithms**.     
 
 ### 6.3 Dijkstra's algorithm
 Similar to how the nodes were prioritized on the basis of distance to goal, in Dijsktra's algorithm the nodes are prioritized on the basis of distance to the start i.e. the nodes which are closer to start. Same as above, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes. Assume, eight-point connectivity.  
@@ -39,6 +39,9 @@ $$f(n) = g(n) \tag{2}$$
 <p align="center">
 Figure 6.2 Dijkstra 
 </p>
+
+### 6.4 References
+[1]. Choset H., Lynch  K. M., Hutchinson S. Kantor G., Burgard W., Kavraki L. E., Thrun Sebastian. Principles of Robot Motion. MIT Press 
 
 <hr>
 ### Bonus!
