@@ -24,7 +24,7 @@ $$f(n) = h(n) \tag{1}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![greed]({{ site.url }}/assets/gifs/greedyy.gif)
 <p align="center">
-Figure 6.1 Greedy search (eight-point connectivity)
+Figure 6.1 Greedy search
 </p>
 For now, just assume closed and open nodes as explored nodes. In the next post, we will discuss these terminologies with much depth and also the implementation part of these algorithms.     
 
