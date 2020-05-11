@@ -17,7 +17,7 @@ keywords: "greedy, dijkstra, graph based planning"
 * **$f(n)$** - is the estimated cost of shortest path from $q_{start}$ to $q_{goal}$ via $n$.
 
 ### 6.2 Greedy!
-As we saw in the previous post, the wave-front planner doesn't take any advantage of the prior information about the start/goal position. Let us make the search a bit greedy by expanding/exploring nodes based on distance to goal i.e. node which are closer to goal are given more priority. This makes the search greedy and is only considering what it **believes**. In the following example, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes. Assume, eight-point connectivity. 
+As we saw in the previous post, the wave-front planner doesn't take any advantage of the prior information about the start/goal position. Let us make the search a bit greedy by expanding/exploring nodes based on distance to goal i.e. node which is closer to goal are given more priority. This makes the search greedy and is only considering what it **believes**. In the following example, dark-blue : obstacles, purple : free space, dark-green : start-goal, yellow : closed nodes, light-green : open nodes. Assume, eight-point connectivity. 
 <p align="center">
 $$f(n) = h(n) \tag{1}$$
 </p>
