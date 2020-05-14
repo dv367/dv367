@@ -129,7 +129,7 @@ The value of $\epsilon$ was experimentally determined by analysing the strength 
 ### 4.5 Conclusion
 The main takeaways of this function is-  
 * It can be extended to higher dimensions as well.
-* It has only one local minimum which is at $q_goal$.
+* It has only one local minimum which is at $q_{goal}$.
 * Though it has only one local minimum, it suffers from saddle points which results in wobbly motion of the robot.
 * One may observe in **Figure 4.4** for $k=10$, the magnitude of the function is almost constant everywhere resulting in steep changes near the goal.
 
