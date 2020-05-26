@@ -99,7 +99,7 @@ But let's throw in a <b>tag</b>.
 
 ### Table 2: With Typography Elements
 
-Markdown | Less | Pretty
+Not | working | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
