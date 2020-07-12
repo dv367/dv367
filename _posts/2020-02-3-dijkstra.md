@@ -40,6 +40,8 @@ $$f(n) = g(n) \tag{2}$$
 Figure 6.2 Dijkstra 
 </p>
 
+**</>** [GitHub](https://github.com/dv367/planning-cmu/tree/master/my_robot/src/scripts)
+
 ### 6.4 References
 [1]. Choset H., Lynch  K. M., Hutchinson S. Kantor G., Burgard W., Kavraki L. E., Thrun Sebastian. Principles of Robot Motion. MIT Press 
 
