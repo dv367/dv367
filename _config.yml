@@ -12,7 +12,7 @@ twitter_username  : "dvenVivek"
 comments_enabled  : true # if enabled (set to true), please provide your disqus_username
 disqus_username : "dven940"
 disqus_shortname  : "https-dv367-github-io-thinkspace"
-postshare_enabled : true
+postshare_enabled : false
 
 # Build settings
 permalink   : /:year/:title/
