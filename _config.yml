@@ -5,7 +5,7 @@ description   : "RI"
 keywords      : "Motion Planning, Planning, Robot Path Planning"
 url           : https://dv367.github.io/thinkspace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "https://github.com/dv367/thinkspace/tree/master/assets/images/cover.png" # image uri like logo/cover image for site seo
+cover         : "{{ site.url }}/assets/images/cover.png" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
