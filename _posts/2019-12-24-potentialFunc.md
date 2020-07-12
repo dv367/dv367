@@ -155,7 +155,9 @@ Considering $\vec{v} = -\nabla U$,
 * What will be the magnitude of the vector $\vec{v}$?
 * What will be the argument of the vector $\vec{v}$?
 * Is it feasible to use such attractive potential? Yes/No why?
-<div class="divider"></div>  
+<div class="divider"></div>
+
+[Previous](https://dv367.github.io/thinkspace/2019/bug/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Next]("https://dv367.github.io/thinkspace/2020/navigation/")
 
 
 
