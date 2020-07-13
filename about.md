@@ -13,5 +13,5 @@ I'm Vivek Adajania pursuing Bachelor of Technology in Electronics Engineering at
  </p>
 
 <p align="justify">
-Currently, I am working on multi-agent FWAs under the guidance of Prof. K Madhava, <a href="https://robotics.iiit.ac.in/">RRC</a>, IIIT-Hyderabad. If you have any doubts or query regarding the posts, please feel free to comment or email me at [vivekadajania@gmail.com](mailto:vivekadajania@gmail.com) 
+Currently, I am working on multi-agent FWAs under the guidance of Prof. K Madhava, <a href="https://robotics.iiit.ac.in/">RRC</a>, IIIT-Hyderabad. If you have any doubts or query regarding the posts, please feel free to comment or email me at <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a> 
 </p>
