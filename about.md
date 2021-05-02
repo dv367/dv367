@@ -7,8 +7,7 @@ permalink: /about/
 I'm a final Bachelor's student majoring in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://ims.ut.ee/Roboticsa">IMS Robotics</a>, University of Tartu.
 </p>	
 
-### On-going projects
-<div class="divider"></div>  
+### On-going projects 
 ##### Quadrotor Trajectory Optimization  
 _Tags: ROS, Gazebo, ACADO_    
 <p align="justify">
@@ -21,8 +20,7 @@ _Tags: ROS, Gazebo, Gekko-IPOPT, Scipy-SLSQP, RMSProp_
 Developed an autonomous navigation system for robots operating in warehouses. 
 </p>
 <div class="divider"></div>  
-### Past projects   
-<div class="divider"></div>  
+### Past projects    
 ##### Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings  
 <p align="justify">
 Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. The optimizer outperformed the state-of-the-art SQP solver ACADO in terms of computation time and quality of solution.  
