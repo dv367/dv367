@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Planning"
-title_right   : "Techniques" # default: ""
+title_left    : "Vivek"
+title_right   : "Adajania" # default: ""
 description   : "RI"
 keywords      : "Motion Planning, Planning, Robot Path Planning"
 url           : https://dv367.github.io/thinkspace # site url
