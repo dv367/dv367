@@ -9,12 +9,10 @@ I'm a final Bachelor's student majoring in ECE at Sardar Vallabhbhai National In
 <div class="divider"></div>  
 ### On-going projects 
 ##### - Quadrotor Trajectory Optimization  
-_Tags: ROS, Gazebo, ACADO_    
 <p align="justify">
 Implemented different occlusion minimization formulations in a Model Predictive Control setup using state-of-the-art SQP solver ACADO. 
 </p>  
 ##### - Multi-Robots in Warehouse
-_Tags: ROS, Gazebo, Gekko-IPOPT, Scipy-SLSQP, RMSProp_
 <p align="justify">
 Developed an autonomous navigation system for robots operating in warehouses. 
 </p>
