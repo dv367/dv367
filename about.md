@@ -10,27 +10,26 @@ I'm a final Bachelor's student majoring in ECE at Sardar Vallabhbhai National In
 ### On-going projects
 #### Quadrotor Trajectory Optimization
 <p align="justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Implemented different occlusion minimization formulations in a Model Predictive Control setup using state-of-the-art SQP solver ACADO. 
 </p>
 <div class="divider"></div>  
 #### Multi-Robots in Warehouse
 <p align="justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Developed an autonomous navigation system for robots operating in warehouses. 
 </p>
 <div class="divider"></div>  
 ### Past projects   
 #### Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings  
 <p align="justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. The optimizer outperformed the state-of-the-art SQP solver ACADO in terms of computation time and quality of solution.  
 </p>  
 <div class="divider"></div>  
 #### NMPC with deep learning-based gradient descent optimizer RMSProp   
 <p align="justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Incorporated RMSProp as an optimizer in Non-linear Model Predictive Control setup for aerial and ground vehicles. 
 </p>
 <div class="divider"></div>  
 #### Asia-Pacific Robot Contest     
 <p align="justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </p>
 <div class="divider"></div>
