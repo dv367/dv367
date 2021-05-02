@@ -4,14 +4,23 @@ title: About
 permalink: /about/
 ---
 <p align="justify">
-I'm Vivek Adajania pursuing Bachelor of Technology in Electronics Engineering at NIT Surat. My research interests are planning, control, and multi-agent systems. From my sophomore year, I’ve been a part of Team <a href="https://www.facebook.com/drishti.nitsurat">Drishti</a> (technical club) participating in the Asia-Pacific Robot Contest. It is an international robotics competition hosted every year by different Asian-Pacific countries (Japan, Vietnam, China, India, etc.) wherein robots compete to complete a given task in a set period of time.
+I'm a final Bachelor's student majoring in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://ims.ut.ee/Roboticsa">IMS Robotics</a>, University of Tartu.
 </p>	
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![robot]({{ site.url }}/assets/gifs/robot.gif)	
-<p align="center">	
-  Fig. Robot avoids obstacles in a known environment	
- </p>	
-
-<p align="justify">	
-Currently, I am working on FWA trajectory optimization under the guidance of Prof. K Madhava, <a href="https://robotics.iiit.ac.in/">RRC</a>, IIIT-Hyderabad and Prof. AK Singh, UT, Estonia. If you have any doubts or query regarding the posts, please feel free to comment or email me at <a href="mailto:vivekadajania@gmail.com">vivekadajania[at]gmail.com</a> 
-</p>
+### On-going projects
+#### Quadrotor Trajectory Optimization
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="divider"></div>
+#### Multi-Robots in Warehouse
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="divider"></div>
+### Past projects
+#### Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="divider"></div>
+#### NMPC with deep learning-based gradient descent optimizer RMSProp 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="divider"></div>
+#### Asia-Pacific Robot Contest 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<div class="divider"></div>
