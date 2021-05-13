@@ -11,6 +11,6 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 ##### - Quadrotor Trajectory Optimization  
 ##### - Multi-Robots in Warehouse
 ##### - Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings  
-##### - NMPC with deep learning-based gradient descent optimizer RMSProp   
+##### - Non-Linear Model Predictive Control with Gradient Descent  Variant  
 ##### - Asia-Pacific Robot Contest     
 
