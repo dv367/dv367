@@ -25,12 +25,15 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   Formulated different occlusion minimization problems using ACADO Toolkit.<br> 
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   <p align="justify">
-  Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.</p><br>
+  Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.</p><br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;">       <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
-Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
-  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
+Research submitted to IROS'21: Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
+  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
+  Developed deep learning inspired gradient descent variant RMSPprop, using Autograd. Incorporated RMSProp in a Non-linear Model Predictive Control Setup for non-holonomic robots.<br>
+  <br>
+  img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="fyp1" style="width:45%;height:45%;">
   <p align="justify"></p>
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
   <p align="justify"></p>
