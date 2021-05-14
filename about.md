@@ -16,7 +16,8 @@ Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Technique
 ### Projects   
 <ol>
   <li><h4>Quadrotor Occlusion Minimization</h4></li>
-  Formulated different occlusion minimization problems using ACADO Toolkit.
+  Formulated different occlusion minimization problems using ACADO Toolkit.<br>
+  <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext" style="width:50%;height:50%;"> 
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   Developed a multi-robot navigation system by bringing diverse concepts and algorithms. Validated and test our system in Gazebo environment.
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
