@@ -11,7 +11,9 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 ### Projects   
 <ol>
   <li>Quadrotor Occlusion Minimization</li>
+  Formulated different occlusion minimization problems using ACADO Toolkit.
   <li>Multi-Robots Cooperation in Warehouse</li>
+  Developed a multi-robot navigation system by bringing diverse concepts and algorithms. Validated and test our system in Gazebo environment.
   <li>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</li>
   <li>Non-Linear Model Predictive Control with Gradient Descent  Variant</li>  
   <li>Asia-Pacific Robot Contest</li>
