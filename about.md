@@ -9,10 +9,10 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 <img src="{{ site.url }}/assets/images/me.jpeg" alt="alternatetext"  align="right">  
 ### Projects   
 <ol>
-<li>Quadrotor Trajectory Optimization</li>
-<li>Multi-Robots Cooperation in Warehouse</li>
-<li>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</li>
-<li>Non-Linear Model Predictive Control with Gradient Descent  Variant</li>  
-<li>Asia-Pacific Robot Contest</li>
-<li>Motion Planning Techniques Blogs     
+  <li>Quadrotor Trajectory Optimization</li>
+  <li>Multi-Robots Cooperation in Warehouse</li>
+  <li>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</li>
+  <li>Non-Linear Model Predictive Control with Gradient Descent  Variant</li>  
+  <li>Asia-Pacific Robot Contest</li>
+  <li>Motion Planning Techniques Blogs</li>     
 </ol>
