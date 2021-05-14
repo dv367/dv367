@@ -32,7 +32,6 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 Research submitted to IROS'21: Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop, using Autograd. Incorporated RMSProp in a Non-linear Model Predictive Control Setup for non-holonomic robots.</p><br>
-  <br>
   <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
   <p align="justify">Developed an autonomous navigation system for Omni-directional robots from scratch including embedded systems.</p>
