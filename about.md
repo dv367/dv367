@@ -15,11 +15,11 @@ Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Technique
 
 ### Projects   
 <ol>
-  <li><h3>Quadrotor Occlusion Minimization</h3></li>
+  <li><h4>Quadrotor Occlusion Minimization</h4></li>
   Formulated different occlusion minimization problems using ACADO Toolkit.
-  <li><h3>Multi-Robots Cooperation in Warehouse</h3></li>
+  <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   Developed a multi-robot navigation system by bringing diverse concepts and algorithms. Validated and test our system in Gazebo environment.
-  <li><h3>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h3></li>
-  <li><h3>Non-Linear Model Predictive Control with Gradient Descent Variant</h3></li>  
-  <li><h3>Asia-Pacific Robot Contest</h3></li>   
+  <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
+  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
+  <li><h4>Asia-Pacific Robot Contest</h4></li>   
 </ol>
