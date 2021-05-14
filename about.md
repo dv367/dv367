@@ -13,7 +13,7 @@ My research interests is in motion planning and control for autonomous vehicles 
   <strong>Updates:</strong><br>  
 <ol>
   <li><strong>2021/03/01</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to <strong>IEEE/RSJ IROS 2021</strong>.</li>
-  <li><strong>2020/12/15</strong> Technical Blogs on Motion Planning Techniques<a href="https://dv367.github.io/thinkspace">&#128279</a></li>
+  <li><strong>2020/12/15</strong> Technical Blogs on Motion Planning Techniques<a href="https://dv367.github.io/thinkspace">&#128279;</a></li>
 </ol>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
@@ -25,7 +25,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   Formulated different occlusion minimization problems using ACADO Toolkit.<br> 
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   <p align="justify">
-  Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.</p><br>
+  Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. Validated and tested algorithms in Gazebo environment.</p><br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
