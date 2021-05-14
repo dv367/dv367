@@ -18,7 +18,7 @@ Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Technique
   <li><h4>Quadrotor Occlusion Minimization</h4></li>
   Formulated different occlusion minimization problems using ACADO Toolkit.<br> 
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
-  Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A\* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.<br>
+  Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.<br>
   <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:50%;height:45%;"> &nbsp; <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" style="width:50%;height:45%;">
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
