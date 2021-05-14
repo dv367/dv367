@@ -12,7 +12,7 @@ My research interests is in motion planning and control for autonomous vehicles 
 <br>
 Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Techniques</a> <br>
 <br>
-Feel free to contact me <a href="mailto:vivekadajania@gmail.com">Send email</a>
+Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
 </p>	
 
 ### Projects   
