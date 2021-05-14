@@ -10,7 +10,9 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 <br>  
 My research interests is in motion planning and control for autonomous vehicles suchs as UAVs, UGVs.<br>
 <br>
-Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Techniques</a> <br>
+Updates:  
+2021/03/01 Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).
+2020/12/15 Technical Blogs on <a href="https://dv367.github.io/thinkspace">Motion Planning Techniques</a>. <br>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
 </p>	
@@ -24,7 +26,6 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.<br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;">       <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
-  <b>V.Adajania</b>, H.Masnavi, F.Rastgar, K.Kruusamae, A.K.Singh, "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).<br>
 Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
