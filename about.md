@@ -35,7 +35,7 @@ Research submitted to IROS'21: Developed a novel optimizer which exploits the co
   <br>
   <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
-  <p align="justify">Developed an autonomous navigation system and hardware implementation for Omni-directional robots.</p>
+  <p align="justify">Developed an autonomous navigation system for Omni-directional robots from scratch including embedded systems.</p>
   <p align="center"><img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" align="center" style="width:75%;height:75%;"> </p>
 </ol>
 
