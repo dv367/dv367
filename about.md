@@ -23,11 +23,11 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <ol>
   <li><h4>Quadrotor Occlusion Minimization</h4></li><em><small>IMS Robotics, (Mar. 2021 -)</small></em><br>   
   Formulated different occlusion minimization problems using ACADO Toolkit.<br> 
-  <li><h4>Multi-Robots Cooperation in Warehouse</h4></li><em><small>(Jan. 2021 - May 2021)</small></em>
+  <li><h4>Multi-Robots Cooperation in Warehouse</h4></li><em><small>NIT Surat, (Jan. 2021 - May 2021)</small></em>
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
-  <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li><em><small>NIT Surat, (Jun. 2020 - Mar. 2021)</small></em>
+  <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li><em><small>IMS Robotics, (Jun. 2020 - Mar. 2021)</small></em>
   <p align="justify">
 Research submitted to IROS'21: Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
   <img src="{{ site.url }}/assets/images/iros_1.png" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/images/iros_2.png" alt="fyp2" align="right" style="width:45%;height:45%;">
