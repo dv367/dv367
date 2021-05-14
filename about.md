@@ -10,9 +10,11 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 <br>  
 My research interests is in motion planning and control for autonomous vehicles suchs as UAVs, UGVs.<br>
 <br>
-Updates:  
-2021/03/01 Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).
-2020/12/15 Technical Blogs on <a href="https://dv367.github.io/thinkspace">Motion Planning Techniques</a>. <br>
+Updates:<br>  
+<ol>
+  <li><b>2021/03/01</b> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).</li>
+  <li><b>2020/12/15</b> Technical Blogs on <a href="https://dv367.github.io/thinkspace">Motion Planning Techniques</a>.</li>
+<ol>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
 </p>	
