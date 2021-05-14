@@ -16,6 +16,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 </p>	
 
 ### Projects   
+<p align="justify">
 <ol>
   <li><h4>Quadrotor Occlusion Minimization</h4></li>
   Formulated different occlusion minimization problems using ACADO Toolkit.<br> 
@@ -28,3 +29,4 @@ Developed a novel optimizer which exploits the computational struture of the non
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
 </ol>
+</p>
