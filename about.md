@@ -20,7 +20,7 @@ Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Technique
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. Validated and tested our system in Gazebo environment.<br>
  <p align="center">
- <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:35%;height:35%;">  <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" style="width:35%;height:35%;"> </p>
+ <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;">  <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" style="width:45%;height:45%;"> </p>
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>  
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
