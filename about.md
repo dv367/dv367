@@ -12,7 +12,7 @@ My research interests is in motion planning and control for autonomous vehicles 
 <br>
 Updates:<br>  
 <ol>
-  <li><strong>2021/03/01</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).</li>
+  <li><strong>2021/03/01</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to IEEE/RSJ IROS 2021.</li>
   <li><strong>2020/12/15</strong> Technical Blogs on <a href="https://dv367.github.io/thinkspace">Motion Planning Techniques</a>.</li>
 </ol>
 <br>
