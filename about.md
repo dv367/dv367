@@ -33,9 +33,9 @@ Research submitted to IROS'21: Developed a novel optimizer which exploits the co
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop, using Autograd. Incorporated RMSProp in a Non-linear Model Predictive Control Setup for non-holonomic robots.</p><br>
   <br>
-  <img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" class="center" style="width:75%;height:75%;">
+  <img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;">
   <li><h4>Asia-Pacific Robot Contest</h4></li>   
   <p align="justify">Developed an autonomous navigation system and hardware implementation for Omni-directional robots.</p>
-  <img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" class="center" style="width:75%;height:75%;"> 
+  <img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" align="center" style="width:75%;height:75%;"> 
 </ol>
 
