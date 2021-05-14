@@ -11,7 +11,7 @@ I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai Nation
 <br>  
 My research interests is in motion planning and control for autonomous vehicles suchs as UAVs, UGVs.
 <br>
-Technical Blogs: [Planning Techniques](https://dv367.github.io/thinkspace)
+Technical Blogs: <a href="https://dv367.github.io/thinkspace">Planning Techniques</a>
 </p>	
 
 ### Projects   
