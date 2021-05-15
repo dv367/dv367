@@ -8,7 +8,8 @@ keywords: ""
 ---  
 
 ### 3.1 Basic Idea  
-Potential function approach directs a robot as if it were a particle moving in a gradient vector field. Gradients can be viewed as forces acting on a positively charged particle robot attracted by a negatively charged goal. Obstacles are also positively charged which forms a repulsive force directing the robot away from it.   
+<p align="justify">
+Potential function approach directs a robot as if it were a particle moving in a gradient vector field. Gradients can be viewed as forces acting on a positively charged particle robot attracted by a negatively charged goal. Obstacles are also positively charged which forms a repulsive force directing the robot away from it.   </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![obstacle]({{ site.url }}/assets/images/charged.png)  
 
@@ -25,8 +26,9 @@ $v = -\nabla U(q) \tag{2}$
 </p> 
 _Note: The function must be continuously differentiable._ 
 
-### 3.2 Attractive Potential  
-The simplest attractive potential function is one that grows quadratically with the distance to goal. Let $\zeta$ be a parameter used to scale the effect of the attractive potential function and $d(q,q_{goal})$ be the distance from current configuration $q$ to goal configuration $q_{goal}$.   
+### 3.2 Attractive Potential
+<p align="justify">
+The simplest attractive potential function is one that grows quadratically with the distance to goal. Let $\zeta$ be a parameter used to scale the effect of the attractive potential function and $d(q,q_{goal})$ be the distance from current configuration $q$ to goal configuration $q_{goal}$.   </p>
 <p align="center">
 $U_{att}(q) = \frac{1}{2}\zeta d^{2}(q,q_{goal}) \tag{3}$
 </p>  
@@ -55,8 +57,9 @@ We can find the value of $\zeta$ by subsituting the $|v|$ as maximum linear velo
 $\zeta = \frac{|v_{max}|}{d^{2}(q_{start},q_{goal})}. \tag{8}$  
 </p>  
   
-### 3.3 Repulsive Potential    
-The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position $(x,y)$  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be the tolerance which allows the robot to ignore the obstacle. The function is defined as    
+### 3.3 Repulsive Potential
+<p align="justify">
+The repulsive potential keeps the robot away from the obstacles. It is usually defined in terms of how close the robot is to the obstacle. Here, we will only consider the effect of the nearest obstacle. Let $D(q)$ be the distance from the robot's current position $(x,y)$  to the nearest point $(x_{o},y_{o})$ on obstacle and $Q^{\dagger}$ be the tolerance which allows the robot to ignore the obstacle. The function is defined as    </p>
 <p align="center">
  $U_{rep}(q) =
 \begin{cases}
@@ -84,7 +87,8 @@ Similar to eqn(5) the argument $\phi$ is given by
 <p align="center">
 $\phi = atan2(y - y_{o},x - x_{o}). \tag{12}$
 </p>
-One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. **Figure 3.4** should make this more clear. _Note: atan2 gives quadrant specific angles_ 
+<p align="justify">
+One should be very careful while calculating the argument of the vector as we require an angle from point $D(x_{o},y_{o})$ to point $P(x,y)$. **Figure 3.4** should make this more clear. _Note: atan2 gives quadrant specific angles_ </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![example]({{ site.url }}/assets/images/example.png)
 <p align="center">
@@ -98,7 +102,8 @@ $\because |\nabla D(q)| = 1 \tag{14}$
 <br>  
 $|v| = |\eta (\frac{1}{Q^\dagger} - \frac{1}{D(q)}) \frac{1}{D^{2}(q)}| \tag{15}$  
 </p>
-Now, the value of $\eta$ can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of $\eta$.  
+<p align="justify">
+Now, the value of $\eta$ can be calculated when $D(q)$ is minimum. One may think $D(q)$ to be zero which is not practically possible as the $360^{\circ}$ LIDAR or any other sensor has some minimum and maximum value. For our case, the minimum distance the laser can sense is $0.12m$. Plugging the value of $D(q)$ as $0.12m$ and $|v|$ as $|v_{max}|$, we can calculate the value of $\eta$.  </p>
 From **Figure 3.5**, we can now observe the overall potential function $U(q)$.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![att]({{ site.url }}/assets/images/overall.png) 
 <p align="center">
@@ -128,7 +133,8 @@ Figure 3.6 Results
 One might have observed in the video that the robot struggled to move when it was near the second obstacle.
 
 ### 3.5 The Local Minima Problem
-**Figure 3.7** illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.  
+<p align="justify">
+**Figure 3.7** illustrates the condition which might have occured in the simulation test. We can see the repulsive velocity acting in the direction opposite to the attractive velocity. Resulting in only decrease in the magnitude of the resultant vector.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![minima1]({{ site.url }}/assets/images/minima1.PNG)
 <p align="center">
 Figure 3.7 One obstacle creating a local minima 
@@ -138,8 +144,9 @@ Figure 3.7 One obstacle creating a local minima
 <p align="center">
 Figure 3.8 Two obstacles creating a local minima
 </p>  
+<p align="justify">
 These are some of the drawbacks of potential functions. We can conclude that potential function is not **complete**. In the next post, we will se how can we avoid the local minimas. However, potential functions are known for their generalization to higher dimensions too.  
-
+</p>
 **</>** [GitHub](https://github.com/dv367/planning-cmu/tree/master/my_robot/src/scripts)
 
 ### 3.6 References
@@ -155,9 +162,5 @@ Considering $\vec{v} = -\nabla U$,
 * What will be the magnitude of the vector $\vec{v}$?
 * What will be the argument of the vector $\vec{v}$?
 * Is it feasible to use such attractive potential? Yes/No why?
-<div class="divider"></div>
-
-[Previous](https://dv367.github.io/thinkspace/2019/bug/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Next](https://dv367.github.io/thinkspace/2020/navigation/)
-
 
 
