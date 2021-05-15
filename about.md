@@ -31,7 +31,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
-Research submitted to IROS'21: Developed a novel optimizer which exploits the computational struture of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
+Research submitted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
   <img src="{{ site.url }}/assets/images/iros_1.png" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/images/iros_2.png" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
