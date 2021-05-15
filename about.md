@@ -18,11 +18,13 @@ My research interests is in motion planning and control for autonomous vehicles 
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
 </p>	
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivekadajania/">Linkedin</a>|<a href="https://github.com/dv367">Github</a>
+</p>
 ### Projects   
 <ol>
   <li><h4>Quadrotor Occlusion Minimization</h4></li> 
-  Prototyped different occlusion minimization formulations suchs using ACADO Toolkit.<br> 
+  Prototyped different occlusion minimization formulations using ACADO Toolkit.<br> 
   <li><h4>Multi-Robots Cooperation in Warehouse</h4></li>
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
