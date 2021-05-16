@@ -6,20 +6,20 @@ permalink: /about/
 <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
 <p align="justify">
   <br>
-I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://ims.ut.ee/Roboticsa">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
+I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
 My research interests is in motion planning and control for autonomous vehicles such as UAVs, UGVs.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
   <li><strong>2021/03/01</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to <strong>IEEE/RSJ IROS 2021</strong>.</li>
-  <li><strong>2020/12/15</strong> Technical Blogs on Motion Planning Techniques<a href="https://dv367.github.io/thinkspace">&#128279;</a></li>
+  <li><strong>2020/12/15</strong> Technical Blogs on Motion Planning Techniques<a href="https://dv367.github.io">&#128279;</a></li>
 </ol>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
 </p>	
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekadajania/">Linkedin</a>|<a href="https://github.com/dv367">Github</a>
+  [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p>
 ### Projects   
 <ol>
