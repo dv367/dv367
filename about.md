@@ -24,8 +24,8 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 </p>
 ### Projects   
 <ol>
-  <li><h4>Quadrotor Occlusion Minimization</h4></li> 
-  Prototyped different occlusion minimization formulations using ACADO Toolkit.<br> 
+  <li><h4>Quadrotor tracking target</h4></li> 
+  Prototyped different occlusion minimization formulations for quadrotors using ACADO Toolkit.<br> 
   <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
   <p align="justify">
