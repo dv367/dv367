@@ -22,16 +22,13 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <p align="center">
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p>
-### Research
+### Research & Projects
 <ol>
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
 Research submitted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
   <img src="{{ site.url }}/assets/images/iros_1.png" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/images/iros_2.png" alt="fyp2" align="right" style="width:45%;height:45%;">  
-</ol>  
-### Projects   
-<ol>
-  <li><h4>Quadrotor tracking target</h4></li> 
+<li><h4>Quadrotor tracking target</h4></li> 
   Prototyped different occlusion minimization formulations for quadrotors using ACADO Toolkit.<br> 
   <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
