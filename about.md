@@ -22,6 +22,13 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <p align="center">
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p>
+### Research
+<ol>
+<li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
+  <p align="justify">
+Research submitted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
+  <img src="{{ site.url }}/assets/images/iros_1.png" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/images/iros_2.png" alt="fyp2" align="right" style="width:45%;height:45%;">  
+</ol>  
 ### Projects   
 <ol>
   <li><h4>Quadrotor tracking target</h4></li> 
@@ -31,11 +38,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
-  <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
-  <p align="justify">
-Research submitted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit.</p>
-  <img src="{{ site.url }}/assets/images/iros_1.png" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/images/iros_2.png" alt="fyp2" align="right" style="width:45%;height:45%;">
-  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
+    <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
   <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
   <li><h4>Asia-Pacific Robot Contest</h4></li>  
