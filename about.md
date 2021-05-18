@@ -48,7 +48,7 @@ Research submitted to IROS'21: Developed a novel optimizer which exploits the co
   </p>
   <li><h4>Planning Techniques</h4></li>
   Followed RI16-730 Planning techniques in Robotics and implemented planners such as A*, ARA*, D*, Wave front planner, navigation potential functions, etc. Moreover, wrote blogs on implementation and results. 
-   <p align="center"><img src="{{ site.url }}/assets/gifs/intro_5.gif" alt="robocon" align="center" style="width:75%;height:75%;"><br>
+   <p align="center"><img src="{{ site.url }}/assets/gifs/intro5.gif" alt="robocon" align="center" style="width:75%;height:75%;"><br>
      Robot Chasing a Target in Unknown environment </p> 
 </ol>
 
