@@ -29,11 +29,10 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 Research submitted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
   <div class="video-container">
 <iframe src="https://www.youtube.com/embed/Qk7wdQ39Onk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <style>
-      .video{
-      width:200px;
-      height:150px;
-     </style> 
+   .video iframe {
+   width:67px;
+  height:80px;
+}
  </div>
   <li><h4>Quadrotor tracking target</h4></li> 
   Prototyped different occlusion minimization formulations for quadrotors using ACADO Toolkit.<br> 
