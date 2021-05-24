@@ -17,7 +17,8 @@ My research interests is in motion planning and control for autonomous vehicles 
   <li><strong>2020/12/15</strong> Technical Blogs on Motion Planning Techniques<a href="https://dv367.github.io">&#128279;</a></li>
 </ol>
 <br>
-Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a>
+Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a> <br>
+<i>Click on images to watch it on Youtube</i> <br>
 </p>	
 <p align="center">
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
