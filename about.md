@@ -8,7 +8,7 @@ permalink: /about/
   <br>
 I'm a final year Bachelor's student majoring in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
-My research interests is in motion planning and control for autonomous vehicles such as UAVs, UGVs.<br>
+My research interests is in motion planning and control for UAVs, UGVs.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
