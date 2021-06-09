@@ -26,7 +26,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p>
 
-### Projects
+<h1>Projects</h1>
 <ol>
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
