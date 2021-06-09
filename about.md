@@ -35,7 +35,7 @@ Research submitted to IROS'21: Developed a novel optimizer which exploits the co
 <img src="{{ site.url }}/assets/gifs/iros.gif" alt="Watch on Youtube" width="75%" height="75%">
 </a></p>
 <li><h4>Quadrotor target tracking</h4></li> 
-  Prototyped different occlusion minimization formulations for quadrotors using ACADO Toolkit.<br> 
+  Prototyped different occlusion minimization formulations for quadrotors.<br> 
   <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
   <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
   <p align="justify">
