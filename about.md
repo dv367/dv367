@@ -24,7 +24,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 </p>	
 <p align="center">
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
-</p>
+</p><br>
 
 <h1>Projects</h1>
 <ol>
