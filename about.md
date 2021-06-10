@@ -12,7 +12,7 @@ My research interests is in motion planning and control for UAVs, UGVs.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
-  <li><strong>2021/06/09</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors" submitted to <strong>IEEE Access</strong>.
+  <li><strong>2021/06/09</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors" submitted to <strong>IEEE Access</strong>.</li>
   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="http://www.robotics.utias.utoronto.ca/">UTIAS Robotics</a></li>
   <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
   <li><strong>2021/03/01</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," submitted to <strong>IEEE/RSJ IROS 2021</strong>.</li>
@@ -26,7 +26,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p><br>
 
-<h1>Projects</h1>
+### Projects
 <ol>
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
