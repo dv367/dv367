@@ -41,15 +41,16 @@ Research submitted to IROS'21: Developed a novel optimizer which exploits the co
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
  <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
-    <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
-  <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
-  <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
   <li><h4>Asia-Pacific Robot Contest</h4></li>  
   <p align="justify">Developed an autonomous navigation system for Omni-directional robots from its embedded system to motion planning and control.</p>
   <p align="center"><img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" align="center" style="width:75%;height:75%;"> 
   <br> 
   Planner: Visibility graphs
-  </p>
+  </p>  
+  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
+  <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
+  <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
+  
 <!--   <li><h4>Planning Techniques</h4></li>
   Followed RI16-730 Planning techniques in Robotics and implemented planners such as A*, ARA*, D*, Wave front planner, navigation potential functions, etc. Moreover, wrote blogs<a href="https://dv367.github.io">&#128279;</a> on implementation and results. <br> 
    <p align="center"><img src="{{ site.url }}/assets/gifs/intro5.gif" alt="robocon" align="center" style="width:100%;height:100%;"><br>
