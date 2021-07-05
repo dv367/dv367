@@ -34,9 +34,9 @@ Research accepted to IROS'21: Developed a novel optimizer which exploits the com
 <p align="center"><a href="https://youtu.be/Qk7wdQ39Onk">
 <img src="{{ site.url }}/assets/gifs/iros.gif" alt="Watch on Youtube" width="75%" height="75%">
 </a></p>
-<li><h4>Quadrotor target tracking</h4></li> 
+<!-- <li><h4>Quadrotor target tracking</h4></li> 
   Prototyped different occlusion minimization formulations for quadrotors.<br> 
-  <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;">
+  <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;"> -->
   <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
