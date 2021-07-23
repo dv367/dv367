@@ -20,12 +20,13 @@ My research interests is in motion planning and control for UAVs, UGVs.<br>
 </ol>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a> <br>
-<i>Click on images to watch it on Youtube</i> <br>
+
 </p>	
 <p align="center">
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p><br>
 
+<h1>Click on images to watch it on Youtube</h1>
 ### Projects
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
