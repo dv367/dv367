@@ -28,6 +28,11 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 
 ### Projects
 <ol>
+  <li><h4>Batch Optimization for autonomous driving</h4></li>
+  Generating multiple collision-free trajectories in parallel with a dynamic obstacles.
+  <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
+<img src="{{ site.url }}/assets/images/acado_thread.png" alt="Watch on Youtube" width="75%" height="75%">
+</a></p>
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
 Research accepted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
