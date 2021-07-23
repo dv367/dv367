@@ -26,7 +26,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p><br>
 
-<h1>Click on images to watch it on Youtube</h1>
+<h6>Click on images to watch it on Youtube</h6>
 ### Projects
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
