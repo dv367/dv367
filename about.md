@@ -29,7 +29,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 ### Projects
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
-  Generating multiple collision-free trajectories in parallel with a dynamic obstacles.
+  On-going project: Generating multiple collision-free trajectories in parallel with dynamic obstacles.
   <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
 <img src="{{ site.url }}/assets/images/acado_thread.png" alt="Watch on Youtube" width="75%" height="75%">
 </a></p>
