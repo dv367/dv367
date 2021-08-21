@@ -44,7 +44,7 @@ Research accepted to IROS'21: Developed a novel optimizer which exploits the com
 <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/Qk7wdQ39Onk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<li><h4>Quadrotor target tracking</h4></li>
+<li><h4>Occlusion-Free Target Tracking with Quadrotors</h4></li>
 Research submitted to IEEE Access: Developed a fast MPC algorithm that can run reali-time laptops and devices such as Jetson TX2 for the problem of quadrotor tracking a target. Our approach relies on novel reformulations for the tracking, collision, and occlusion constraints that induce a multi-convex structure in the resulting trajectory optimization. We exploit these mathematical structures using the split Bregman Iteration technique, eventually reducing our MPC to a series of convex Quadratic Programs solvable in a few milliseconds.
  <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/D97A7I7qUts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
