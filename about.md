@@ -50,7 +50,7 @@ Research submitted to IEEE Access: Developed a fast MPC algorithm that can run r
 <iframe width="450" height="253" src="https://www.youtube.com/embed/D97A7I7qUts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   
-  <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
+  <li><h4>Multi-Robot System for Warehouse application</h4></li>
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
  <a href="https://youtu.be/ncNinuzSq00">
