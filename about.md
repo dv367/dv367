@@ -23,8 +23,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 
 </p>	
 <p align="center">
-<!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
-<iframe width="900" height="506" src="https://www.youtube.com/embed/wz3eUXRZGHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p><br>
 
 <h6>Click on images to watch it on Youtube</h6>
@@ -32,9 +31,13 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
   On-going project: Generating multiple collision-free trajectories in parallel with dynamic obstacles.
-  <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
+<p align="center">
+<!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
+<iframe width="450" height="253" src="https://www.youtube.com/embed/wz3eUXRZGHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+  <!--   <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
 <img src="{{ site.url }}/assets/images/acado_thread.png" alt="Watch on Youtube" width="75%" height="75%">
-</a></p>
+</a></p> -->
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
 Research accepted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
