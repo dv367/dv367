@@ -30,7 +30,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 ### Projects
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
-  On-going project: Generating multiple collision-free trajectories in parallel with dynamic obstacles.
+  On-going project: Real-time batchable non-holonomic trajectory optimization.
 <p align="center">
 <!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
 <iframe width="450" height="253" src="https://www.youtube.com/embed/wz3eUXRZGHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,6 +55,11 @@ Research submitted to IEEE Access: Developed a fast MPC algorithm that can run r
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
  <a href="https://youtu.be/ncNinuzSq00">
    <img src="{{ site.url }}/assets/gifs/fyp_1.gif" alt="fyp1" style="width:45%;height:45%;"> <a href="https://youtu.be/ncNinuzSq00"><img src="{{ site.url }}/assets/gifs/fyp_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;"></a>
+  <p align="center">
+  <iframe width="450" height="253" src="https://www.youtube.com/embed/ncNinuzSq00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </p>
+   
+   
   <li><h4>Asia-Pacific Robot Contest</h4></li>  
   <p align="justify">Developed an autonomous navigation system for Omni-directional robots from its embedded system to motion planning and control.</p>
   <p align="center"><img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" align="center" style="width:75%;height:75%;"> 
