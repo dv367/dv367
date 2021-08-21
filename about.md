@@ -44,9 +44,12 @@ Research accepted to IROS'21: Developed a novel optimizer which exploits the com
 <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/Qk7wdQ39Onk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<!-- <li><h4>Quadrotor target tracking</h4></li> 
-  Prototyped different occlusion minimization formulations for quadrotors.<br> 
-  <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;"> -->
+<li><h4>Quadrotor target tracking</h4></li>
+Research submitted to IEEE Access: Developed a fast MPC algorithm that can run reali-time laptops and devices such as Jetson TX2 for the problem of quadrotor tracking a target. Our approach relies on novel reformulations for the tracking, collision, and occlusion constraints that induce a multi-convex structure in the resulting trajectory optimization. We exploit these mathematical structures using the split Bregman Iteration technique, eventually reducing our MPC to a series of convex Quadratic Programs solvable in a few milliseconds.
+ <p align="center">
+<iframe width="450" height="253" src="https://www.youtube.com/embed/D97A7I7qUts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  
   <li><h4>Multi-Robot Cooperation in Warehouse</h4></li>
   <p align="justify">
   Final Year Project: Developed a multi-robot navigation system by incorporating diverse concepts and algorithms such as distributed model predictive control, A* search algorithm, On-demand Collision Avoidane, and Leader-Follower formation scheme. The problem statement was divided into three parts: single-robot navigation, multi-robot navigation, multi-robot cooperation to transport a deformable object. We validated and tested algorithms in Gazebo environment.</p><br>
