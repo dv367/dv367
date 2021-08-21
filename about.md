@@ -41,9 +41,9 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
 Research accepted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
-<p align="center"><a href="https://youtu.be/Qk7wdQ39Onk">
-<img src="{{ site.url }}/assets/gifs/iros.gif" alt="Watch on Youtube" width="75%" height="75%">
-</a></p>
+<p align="center">
+<iframe width="450" height="253" src="https://www.youtube.com/embed/Qk7wdQ39Onk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <!-- <li><h4>Quadrotor target tracking</h4></li> 
   Prototyped different occlusion minimization formulations for quadrotors.<br> 
   <img src="{{ site.url }}/assets/gifs/fov_1.gif" alt="fyp1" style="width:45%;height:45%;"> <img src="{{ site.url }}/assets/gifs/fov_2.gif" alt="fyp2" align="right" style="width:45%;height:45%;"> -->
