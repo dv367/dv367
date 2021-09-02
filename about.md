@@ -30,7 +30,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 ### Projects
 <ol>
   <li><h4>Batch Optimization for autonomous driving</h4></li>
-  On-going project: Real-time batchable non-holonomic trajectory optimization.
+  On-going project: Real-time batchable non-holonomic trajectory optimization. <i>Manuscript in preparation</i>
 <p align="center">
 <!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
 <iframe width="450" height="253" src="https://www.youtube.com/embed/wz3eUXRZGHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
