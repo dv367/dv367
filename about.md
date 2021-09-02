@@ -62,9 +62,8 @@ Research submitted to IEEE Access: Developed a fast MPC algorithm that can run r
    
   <li><h4>Asia-Pacific Robot Contest</h4></li>  
   <p align="justify">Developed an autonomous navigation system for Omni-directional robots from its embedded system to motion planning and control.</p>
-  <p align="center"><img src="{{ site.url }}/assets/gifs/robocon.gif" alt="robocon" align="center" style="width:75%;height:75%;"> 
-  <br> 
-  Planner: Visibility graphs
+  <p align="center">
+  <iframe width="450" height="253" src="https://www.youtube.com/embed/bhk94eT4mUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>  
   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
