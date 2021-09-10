@@ -29,11 +29,11 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <h6>Click on images to watch it on Youtube</h6>
 ### Projects
 <ol>
-  <li><h4>Batch Optimization for autonomous driving</h4></li>
-  On-going project: Real-time batchable non-holonomic trajectory optimization. <i>Manuscript in preparation</i>
+  <li><h4> Multi-Modal MPC for autonomous driving</h4></li>
+  Developed a multi-modal MPC that consists </i>
 <p align="center">
 <!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
-<iframe width="450" height="253" src="https://www.youtube.com/embed/wz3eUXRZGHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/z2cDWWb_oS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
   <!--   <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
 <img src="{{ site.url }}/assets/images/acado_thread.png" alt="Watch on Youtube" width="75%" height="75%">
