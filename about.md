@@ -12,8 +12,8 @@ My research interests is in motion planning and control for UAVs, UGVs.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
-  <li><strong>2021/06/30</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," accepted to <strong>IEEE/RSJ IROS 2021</strong></li>
-  <li><strong>2021/06/09</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors" submitted to <strong>IEEE Access</strong>.</li>
+ <li><strong>2021/09/11</strong> Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>submitted</strong> to <strong> RAL 2022</strong></li>
+  <li><strong>2021/06/30</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>accepted</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a></li>
   <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
   <li><strong>2020/12/15</strong> Technical Blogs on <strong>Motion Planning Techniques</strong><a href="https://dv367.github.io">&#128279;</a></li>
@@ -40,12 +40,12 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 </a></p> -->
 <li><h4>Fixed-Wing-Aerial Vehicle Trajectory Optimization in Urban Settings</h4></li>
   <p align="justify">
-Research accepted to IROS'21: Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
+Developed a novel optimizer which exploits the computational structure of the non-linear trajectory optimization problem. Our optimizers builds an insight that the seemingly non-linear trajectory optimization has an implicit multi-convex structure. It outperforms the state-of-the-art implementation of SQP ACADO Toolkit in terms of computation time and solution quality.</p>
 <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/Qk7wdQ39Onk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <li><h4>Occlusion-Free Target Tracking with Quadrotors</h4></li>
-Research submitted to IEEE Access: Developed a fast MPC algorithm that can run reali-time laptops and devices such as Jetson TX2 for the problem of quadrotor tracking a target. Our approach relies on novel reformulations for the tracking, collision, and occlusion constraints that induce a multi-convex structure in the resulting trajectory optimization. We exploit these mathematical structures using the split Bregman Iteration technique, eventually reducing our MPC to a series of convex Quadratic Programs solvable in a few milliseconds.
+Developed a fast MPC algorithm that can run real-time laptops and devices such as Jetson TX2 for the problem of quadrotor tracking a target. Our approach relies on novel reformulations for the tracking, collision, and occlusion constraints that induce a multi-convex structure in the resulting trajectory optimization. We exploit these mathematical structures using the split Bregman Iteration technique, eventually reducing our MPC to a series of convex Quadratic Programs solvable in a few milliseconds.
  <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/D97A7I7qUts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
