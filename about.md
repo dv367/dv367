@@ -6,7 +6,7 @@ permalink: /about/
 <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
 <p align="justify">
   <br>
-  I am an incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> Fall 2021. I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
+  I am a graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a>. I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Technology. Currently, I work as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
 My research interests is in motion planning and control for UAVs, UGVs.<br>
 <br>
@@ -30,7 +30,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 ### Projects
 <ol>
   <li><h4> Multi-Modal MPC for autonomous driving</h4></li>
-  Developed a real-time MPC algorithm that captures different driving modalities by generating several goal-directed trajectories in parallel; For a desired driving behviours the trajectories are ranked based on a meta-cost function.
+  Developed a real-time MPC algorithm that captures different driving modalities by generating several goal-directed trajectories in parallel; the resulting trajectories are ranked based on a meta-cost function to accomplish a high-level driving objective.
 <p align="center">
 <!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
 <iframe width="450" height="253" src="https://www.youtube.com/embed/z2cDWWb_oS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
