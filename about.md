@@ -12,7 +12,7 @@ My research interests is in motion planning and control for UAVs, UGVs.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
- <li><strong>2021/09/11</strong> Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>submitted</strong> to <strong> RAL 2022</strong></li>
+ <li><strong>2021/09/11</strong> Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>submitted</strong> to <strong> RAL-ICRA 2022</strong></li>
   <li><strong>2021/06/30</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>accepted</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
 <!--   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a></li>
   <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
