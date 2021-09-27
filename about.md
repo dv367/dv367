@@ -6,7 +6,8 @@ permalink: /about/
 <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
 <p align="justify">
   <br>
-  I am a graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a>. Currenlty, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a>.<br>
+   I am a graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a>
+<!--   I am a graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a>. Currenlty, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a>.<br> -->
 <br>
 I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Technology. I have worked as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I've worked under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
