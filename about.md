@@ -26,7 +26,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 
 </p>	
 <p align="center">
-  [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
+  [<a href="https://scholar.google.com/citations?user=VxiCvuIAAAAJ&hl=en">Google Scholar </a>|<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
 </p><br>
 
 <!-- <h6>Click on images to watch it on Youtube</h6> -->
