@@ -90,7 +90,7 @@ $\sigma_{\lambda}(x) = \frac{x}{\lambda + x} \tag{5}$
 
 Lets see how this switch limits a given function. Take an example of $y = x^{2} $ and observe the **Figure 4.3**. _Note: It is not scaled to graph._  
 
-![example]({{ site.url }}/assets/images/example.PNG)  
+![example]({{ site.url }}/assets/images/switch_example.png)  
 <p align="center">
 Figure 4.3 Analytical switch limiting the function  
 </p>  
