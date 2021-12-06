@@ -6,7 +6,7 @@ permalink: /about/
 <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
 <p align="justify">
   <br>
-  I am a graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> (University of Toronto). Currently, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a>.<br>
+  I am a first-year Master of Engineering student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> (University of Toronto). Currently, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a> on multi-robot navigation in formation. <br>
 <br>
 I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Technology. I have worked as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I did summer reseach internship under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
@@ -32,6 +32,11 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
 <!-- <h6>Click on images to watch it on Youtube</h6> -->
 ### Projects
 <ol>
+   <li><h4> Multi-robot navigation in formation</h4></li>
+  On-going  
+  <p align="center">
+    <iframe width="450" height="253" src="https://www.youtube.com/embed/GDk19heYaa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
   <li><h4> Multi-Modal MPC for autonomous driving</h4></li>
   Developed a real-time MPC algorithm that captures different driving modalities by generating several goal-directed trajectories in parallel; the resulting trajectories are ranked based on a meta-cost function to accomplish a high-level driving objective.
 <p align="center">
