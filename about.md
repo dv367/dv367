@@ -40,8 +40,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   <li><h4> Multi-Modal MPC for autonomous driving</h4></li>
   Developed a real-time MPC algorithm that captures different driving modalities by generating several goal-directed trajectories in parallel; the resulting trajectories are ranked based on a meta-cost function to accomplish a high-level driving objective.
 <p align="center">
-<!--   [<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>] -->
-<iframe width="450" height="253" src="https://www.youtube.com/embed/z2cDWWb_oS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/HPME4cYlR24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
   <!--   <p align="center"><a href="https://youtu.be/uDG9M1NHW_c">
 <img src="{{ site.url }}/assets/images/acado_thread.png" alt="Watch on Youtube" width="75%" height="75%">
