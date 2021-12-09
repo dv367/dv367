@@ -35,7 +35,7 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
    <li><h4> Multi-robot navigation in formation</h4></li>
   On-going  
   <p align="center">
-    <iframe width="450" height="253" src="https://www.youtube.com/embed/GDk19heYaa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="253" src="https://www.youtube.com/embed/_0_wwNrdHmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </p>
   <li><h4> Multi-Modal MPC for autonomous driving</h4></li>
   Developed a real-time MPC algorithm that captures different driving modalities by generating several goal-directed trajectories in parallel; the resulting trajectories are ranked based on a meta-cost function to accomplish a high-level driving objective.
