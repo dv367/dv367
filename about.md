@@ -73,9 +73,9 @@ Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@g
   <p align="center">
   <iframe width="450" height="253" src="https://www.youtube.com/embed/bhk94eT4mUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>  
-  <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
+<!--   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
-  <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p>
+  <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p> -->
   
   <li><h4>Planning Techniques</h4></li>
   <i>Personal Project</i>: Followed RI16-730 Planning techniques in Robotics and implemented planners such as A*, ARA*, D*, Wave front planner, navigation potential functions, etc. Moreover, wrote blogs<a href="https://dv367.github.io">&#128279;</a> on implementation and results. <br> 
