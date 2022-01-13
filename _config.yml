@@ -3,7 +3,7 @@ title_left    : "Vivek"
 title_right   : "Adajania" # default: ""
 description   : "RI"
 keywords      : "Motion Planning, Planning, Robot Path Planning"
-url           : https://dv367.github.io # site url
+url           : https://vivek-uka.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
