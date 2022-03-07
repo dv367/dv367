@@ -6,17 +6,17 @@ permalink: /about/
 <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
 <p align="justify">
   <br>
-  I am a first-year Master of Engineering student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> (University of Toronto). Currently, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a> on multi-robot navigation in formation. <br>
+  I am a first-year Master of Engineering student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> (University of Toronto). Currently, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a> on multi-robot coordination. <br>
 <br>
 I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Technology. I have worked as an undergraduate researcher under <a href="https://scholar.google.co.in/citations?user=0zgDoIEAAAAJ&hl=en">Prof. Arun Kumar Singh</a>, <a href="https://sisu.ut.ee/collabrobotics/home-0">IMS Robotics</a>, University of Tartu. In the past, I did summer reseach internship under <a href="https://faculty.iiit.ac.in/~mkrishna/">Prof. K Madhava Krishna</a>, <a href="https://robotics.iiit.ac.in/">Robotics Research Center</a>, IIIT Hyderabad. In my sophomore and junior year, I was an active member of my institute's technical club <a href="https://drishti-svnit.github.io/drishti/">Drishti</a>, participating in Asia-Pacific Robot Contest. <br>  
 <br>  
-My research interests is in motion planning and control for UAVs, UGVs.<br>
+My research interests is in motion planning and control for self-driving cars, uavs, multi-robot systems.<br>
 <br>
   <strong>Updates:</strong><br>  
 <ol>
- <li><strong>2021/09/11</strong> Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>accepted</strong> to <strong> RAL-ICRA 2022</strong></li>
+ <li><strong>2021/09/11</strong> Autonomous Driving: Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>accepted</strong> to <strong> RAL-ICRA 2022</strong></li>
   <li><strong>2021/08/1</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors"  <strong>submitted</strong> to <strong> IEEE Access</strong></li>
-  <li><strong>2021/06/30</strong> Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>published</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
+  <li><strong>2021/06/30</strong> Fixed-Wing Trajectory Optimization: Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>published</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
 <!--   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a></li>
   <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
   <li><strong>2020/12/15</strong> Technical Blogs on <strong>Motion Planning Techniques</strong><a href="https://dv367.github.io">&#128279;</a></li> -->
