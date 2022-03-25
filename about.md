@@ -14,19 +14,19 @@ My research interests is in motion planning and control for self-driving cars, u
 <br>
   <strong>Updates:</strong><br>  
 <ol>
- <li><strong>2021/09/11</strong> Autonomous Driving: Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>published</strong> in <strong> IEEE Robotics and Automation Letters 2022</strong></li>
-  <li><strong>2021/08/1</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors"  <strong>submitted</strong> to <strong> IEEE Access</strong></li>
-  <li><strong>2021/06/30</strong> Fixed-Wing Trajectory Optimization: Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>published</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
+ <li><strong>2022/03/1</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors"  <strong>published</strong> in <strong> IEEE Access</strong></li>
+  <li><strong>2022/02/11</strong> Autonomous Driving: Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>published</strong> in <strong> IEEE Robotics and Automation Letters 2022</strong></li>
+ <li><strong>2021/06/30</strong> Fixed-Wing Trajectory Optimization: Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>published</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
 <!--   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a></li>
   <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
-  <li><strong>2020/12/15</strong> Technical Blogs on <strong>Motion Planning Techniques</strong><a href="https://dv367.github.io">&#128279;</a></li> -->
+  <li><strong>2020/12/15</strong> Technical Blogs on <strong>Motion Planning Techniques</strong><a href="https://vivek-uka.github.io">&#128279;</a></li> -->
 </ol>
 <br>
 Feel free to contact me <a href="mailto:vivekadajania@gmail.com">vivekadajania@gmail.com</a> <br>
 
 </p>	
 <p align="center">
-  [<a href="https://scholar.google.com/citations?user=VxiCvuIAAAAJ&hl=en">Google Scholar </a>|<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/dv367"> Github</a>]
+  [<a href="https://scholar.google.com/citations?user=VxiCvuIAAAAJ&hl=en">Google Scholar </a>|<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/vivek-uka"> Github</a>]
 </p><br>
 
 <!-- <h6>Click on images to watch it on Youtube</h6> -->
