@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">     
+<!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->
 <p align="justify">
   <br>
   I am a first-year Master of Engineering student at <a href="https://www.utias.utoronto.ca/">UTIAS</a> (University of Toronto). Currently, I work under the guidance of Professor <a href="http://www.dynsyslab.org/prof-angela-schoellig/">Angela Schoellig</a>, <a href="https://www.dynsyslab.org/vision-news/">Dynamic Systems Lab</a> on multi-robot coordination. <br>
