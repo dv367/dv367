@@ -29,7 +29,7 @@ I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Tech
 <!-- <h6>Click on images to watch it on Youtube</h6> -->
 ### Projects
 <ol>
-   <li><h4> Multi-robot motion planning </h4></li>
+   <li><h4> Safe Multi-Robot motion planning </h4></li>
   On-going  
   <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/poTJmqn9BTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
