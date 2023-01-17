@@ -26,7 +26,9 @@ I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Tech
 <ol>
    <li><h4> Safe Multi-Robot motion planning </h4></li>
   Online, scalable, distributed, and safe trajectory generation algorithm for quadrotor swarms in cluttered environments.   
+  <p align="center">
   <iframe width="450" height="253" src="https://www.youtube.com/embed/YnK3trXbAic" title="AMSwarm: An Alternating Minimization Approach for Safe Motion Planning of Quadrotor Swarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ </p>
 <!--   <p align="center">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/poTJmqn9BTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </p> -->
