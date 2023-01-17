@@ -12,13 +12,8 @@ I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Tech
 <br>  
 <strong>Updates:</strong><br>  
 <ol>
- <li><strong>2022/03/1</strong> Paper titled "Real-Time Multi-Convex Model Predictive Control for Occlusion-Free Target Tracking with Quadrotors"  <strong>published</strong> in <strong> IEEE Access</strong></li>
-  <li><strong>2022/02/11</strong> Autonomous Driving: Paper titled "Multi-Modal Model Predictive Control through Batch Non-Holonomic Trajectory Optimization: Application to Highway Driving," <strong>published</strong> in <strong> IEEE Robotics and Automation Letters 2022</strong></li>
- <li><strong>2021/06/30</strong> Fixed-Wing Trajectory Optimization: Paper titled "Embedded Hardware Appropriate Fast 3D Trajectory Optimization for Fixed Wing Aerial Vehicles by Leveraging Hidden Convex Structures," <strong>published</strong> to <strong>IEEE/RSJ IROS 2021</strong></li>
-<!--   <li><strong>2021/05/27</strong> Incoming graduate student at <a href="https://www.utias.utoronto.ca/">UTIAS</a></li>
-  <li><strong>2021/05/11</strong> Capstone project on multi-robot cooperation: <a href="https://bit.ly/3eTurpt">Youtube </a></li>
-  <li><strong>2020/12/15</strong> Technical Blogs on <strong>Motion Planning Techniques</strong><a href="https://vivek-uka.github.io">&#128279;</a></li> -->
-</ol>
+ <li><strong>2022/03/1</strong> Paper titled "AMSwarm: An Alternating Minimization Approach for Safe Motion Planning of Quadrotor Swarms"  <strong>accepted</strong> to <strong> IEEE ICRA'23 </strong></li>
+  </ol>
 <br>
 
 </p>	
