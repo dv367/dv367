@@ -67,7 +67,11 @@ I completed my Bachelors in ECE at Sardar Vallabhbhai National Institute of Tech
 <i>Competition</i>: Developed an autonomous navigation system for Omni-directional robots from its embedded system to motion planning and control.</p>
   <p align="center">
   <iframe width="450" height="253" src="https://www.youtube.com/embed/bhk94eT4mUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>  
+  </p>
+   <p align="center">
+  <iframe width="450" height="253" src="https://www.youtube.com/embed/-p3lqOd0fhs" title="Autonomous Omni-directional robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </p>
+   
 <!--   <li><h4>Non-Linear Model Predictive Control with Gradient Descent Variant</h4></li>
   <p align="justify">Developed deep learning inspired gradient descent variant RMSPprop using Autograd and incorporated it in a NMPC setup for non-holonomic robots.</p><br>
   <p align="center"><img src="{{ site.url }}/assets/gifs/rmsprop.gif" alt="rmsprop" align="center" style="width:75%;height:75%;"></p> -->
