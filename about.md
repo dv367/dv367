@@ -3,17 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->
-<p align="justify">
+<!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->  
+<p align="justify">  
  I am currently pursuing a Master of Applied Science (MASc) degree in Robotics at the University of Toronto. My research focuses on safe multi-robot motion planning in complex and cluttered environments, working alongside Prof. Angela Schoellig. I specialize in motion planning and controls within the field of Robotics. I have gained significant experience in various approaches for motion planning, such as discrete search-based, sampling-based, and trajectory optimization methods, which I have applied to a wide range of vehicles, including aerial, ground, and self-driving cars. I have successfully implemented and tested these algorithms on real robots like the Bitcraze Crazyflie and custom-made Omni-directional robots. Additionally, I possess substantial programming experience in C++ and ROS (Robot Operating System), and I have contributed to open-source projects that have been beneficial to the robotics community.
 <br>  
    
-<strong>Updates:</strong><br>  
-<ol>
- <li><strong>2022/03/1</strong> Paper titled "AMSwarm: An Alternating Minimization Approach for Safe Motion Planning of Quadrotor Swarms"  <strong>accepted</strong> to <strong> IEEE ICRA'23 </strong></li>
-  </ol>
-<br>
-
 </p>	
 <p align="center">
   [<a href="https://scholar.google.com/citations?user=VxiCvuIAAAAJ&hl=en">Google Scholar </a>|<a href="https://www.linkedin.com/in/vivekadajania/">Linkedin </a>|<a href="https://github.com/vivek-uka"> Github</a>]
@@ -25,7 +19,7 @@ permalink: /about/
    <li><h4> Safe Multi-Robot motion planning </h4></li>
   Online, scalable, distributed, and safe trajectory generation algorithm for quadrotor swarms in cluttered and complex environments.
   <p align="center">
-  <iframe width="450" height="253" src="https://www.youtube.com/embed/T_7j6tOTqT0" title="Bookstore 50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe width="450" height="253" src="https://www.youtube.com/embed/BfJbkWcNU_s" title="AMSwarmX: Safe Swarm Coordination in CompleX Environments via Implicit Non-Convex Decomposition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  </p>  
   <p align="center">
   <iframe width="450" height="253" src="https://www.youtube.com/embed/YnK3trXbAic" title="AMSwarm: An Alternating Minimization Approach for Safe Motion Planning of Quadrotor Swarms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
