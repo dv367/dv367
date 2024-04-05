@@ -5,7 +5,25 @@ permalink: /about/
 ---
 <!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->  
 <p align="justify">  
- I am currently pursuing a Master of Applied Science (MASc) degree in Robotics at the University of Toronto. My research focuses on safe multi-robot motion planning in complex and cluttered environments, working alongside Prof. Angela Schoellig. I specialize in motion planning and controls within the field of Robotics. I have gained significant experience in various approaches for motion planning, such as discrete search-based, sampling-based, and trajectory optimization methods, which I have applied to a wide range of vehicles, including aerial, ground, and self-driving cars. I have successfully implemented and tested these algorithms on real robots like the Bitcraze Crazyflie and custom-made Omni-directional robots. Additionally, I possess substantial programming experience in C++ and ROS (Robot Operating System), and I have contributed to open-source projects that have been beneficial to the robotics community.
+Developing SOTA algorithms: research and software development.<br>  
+
+Expertise: <br>
+- Trajectory planning/optimization frameworks <br>
+- Custom numerical solvers <br> 
+- Integer programming (LP, MILP, MIQP) <br>
+- Optimal Control <br>
+- Search-based and Sampling-based planning <br>
+- Programming C++/Python, ROS <br>
+
+Papers: <br>
+- Multi-agent planning: <br> 
+ AMSwarm (ICRA 2023), AMSwarmX (ICRA 2024) <br>
+- Behaviour planning and trajectory optimization: <br> 
+ Multi-modal MPC (RAL-ICRA 2022) <br>
+
+GitHub open source contribution: <br>
+- 70+ stars <br>
+- 15+ forks <br>
 <br>  
    
 </p>	
