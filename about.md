@@ -5,25 +5,7 @@ permalink: /about/
 ---
 <!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->  
 <p align="justify">  
-Developing SOTA algorithms: research and software development.<br>  
-
-Expertise: <br>
-- Trajectory planning/optimization frameworks <br>
-- Custom numerical solvers <br> 
-- Integer programming (LP, MILP, MIQP) <br>
-- Optimal Control <br>
-- Search-based and Sampling-based planning <br>
-- Programming C++/Python, ROS <br>
-
-Papers: <br>
-- Multi-agent planning: <br> 
- AMSwarm (ICRA 2023), AMSwarmX (ICRA 2024) <br>
-- Behaviour planning and trajectory optimization: <br> 
- Multi-modal MPC (RAL-ICRA 2022) <br>
-
-GitHub open source contribution: <br>
-- 70+ stars <br>
-- 15+ forks <br>
+I am Vivek Adajania, a Robotics Software Engineer at Addverb Technologies, Toronto, Canada. I am responsible for developing, implementing and deploying warehouse fleet management algorithms. I completed a Master of Applied Science under Prof. Angela Schoellig at the University of Toronto. I worked on online and scalable algorithms for safe multi-robot motion planning in cluttered and complex environments. The algorithmic developments in my thesis culminated in two research papers published at the ICRA'23 and ICRA'24 conferences. Moreover, the open-source C++ codes have been fruitful to the robotics community. Before my Masters, I worked under Prof. K Madhava Krishna and Prof. Arun K. Singh at the University of Tartu on trajectory optimization for self-driving vehicles and fixed-wings. 
 <br>  
    
 </p>	
