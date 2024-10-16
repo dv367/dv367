@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <!-- <img src="{{ site.url }}/assets/images/me.png" alt="alternatetext"  align="right" style="width:22%;height:22%;">      -->  
 <p align="justify">  
-I am Vivek Adajania, a Robotics Software Engineer at Addverb Technologies, Toronto, Canada. I am responsible for developing, implementing and deploying warehouse fleet management algorithms. I completed a Master of Applied Science under Prof. Angela Schoellig at the University of Toronto. I worked on online and scalable algorithms for safe multi-robot motion planning in cluttered and complex environments. The algorithmic developments in my thesis culminated in two research papers published at the ICRA'23 and ICRA'24 conferences. Moreover, the open-source C++ codes have been fruitful to the robotics community. Before my Masters, I worked under Prof. K Madhava Krishna and Prof. Arun K. Singh at the University of Tartu on trajectory optimization for self-driving vehicles and fixed-wings. 
+I am Vivek Adajania, a researcher and software engineer in Robotics. Starting this November, I will join Oxa to work on Universal Autonomy. Currently, I work at Addverb Technologies on warehouse fleet management. I did a MASc degree under Angela Schoellig, Learning Systems and Robotics Lab, University of Toronto.
 <br>  
    
 </p>	
